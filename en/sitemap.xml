@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://yinoue.102.github.io/_hp/aboutme/</loc>
+<loc>/https://yinoue.102.github.io/_hp/aboutme/</loc>
 </url>
 <url>
-<loc>https://yinoue.102.github.io/_hp/</loc>
+<loc>/https://yinoue.102.github.io/_hp/</loc>
 </url>
 <url>
-<loc>https://yinoue.102.github.io/_hp/links/</loc>
+<loc>/https://yinoue.102.github.io/_hp/links/</loc>
 </url>
 <url>
-<loc>https://yinoue.102.github.io/_hp/publications/</loc>
+<loc>/https://yinoue.102.github.io/_hp/publications/</loc>
 </url>
 <url>
-<loc>https://yinoue.102.github.io/_hp/tags/</loc>
+<loc>/https://yinoue.102.github.io/_hp/tags/</loc>
 </url>
 </urlset>
