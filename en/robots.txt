@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://yinoue.102.github.io/_hp/sitemap.xml
