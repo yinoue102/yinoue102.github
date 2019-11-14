@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yusuke INOUE Lab.</title>
-    <description>A virtual proof that I'm awesome</description>
-    <link></link>
-    <atom:link href="/en/feed.xml" rel="self" type="application/rss+xml" />
+    <title>INOUE Yusuke Lab.</title>
+    <description>Welcome to my Lab.</description>
+    <link>https://yinoue102.github.io/</link>
+    <atom:link href="https://yinoue102.github.io//en/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>First post!</title>
@@ -14,8 +14,8 @@
 
         </description>
         <pubDate>Sun, 04 Jan 2015 00:00:00 +0900</pubDate>
-        <link>/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">/2015-01-04-first-post/</guid>
+        <link>https://yinoue102.github.io//2015-01-04-first-post/</link>
+        <guid isPermaLink="true">https://yinoue102.github.io//2015-01-04-first-post/</guid>
       </item>
     
   </channel>
