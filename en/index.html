@@ -11,8 +11,6 @@
   <meta name="author" content="Some Person" />
 
   
-  <meta name="description" content="Under Construction">
-  
 
   <link rel="alternate" type="application/rss+xml" title="INOUE Yusuke Lab. - Welcome to my Lab." href="https://yinoue102.github.io//en/feed.xml" />
 
@@ -60,11 +58,11 @@
   
 
   
-  <meta property="og:title" content="Yusuke Inoue Lab." />
+  <meta property="og:title" content="INOUE Yusuke Lab." />
   
 
    
-  <meta property="og:description" content="Under Construction">
+  <meta property="og:description" content="{% for post in paginator.posts %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: site.date_format }} {% if post.image %} {% endif %} {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }} {% assign excerpt_word_count = post.excerpt |...">
   
 
 
@@ -86,11 +84,11 @@
   <meta name="twitter:creator" content="@" />
 
   
-  <meta name="twitter:title" content="Yusuke Inoue Lab." />
+  <meta name="twitter:title" content="INOUE Yusuke Lab." />
   
 
   
-  <meta name="twitter:description" content="Under Construction">
+  <meta name="twitter:description" content="{% for post in paginator.posts %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: site.date_format }} {% if post.image %} {% endif %} {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }} {% assign excerpt_word_count = post.excerpt |...">
   
 
   
@@ -161,12 +159,7 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="page-heading">
-          <h1>Yusuke Inoue Lab.</h1>
-		  
-		    
-            <hr class="small">
-            <span class="page-subheading">Under Construction</span>
-			
+          <h1>INOUE Yusuke Lab.</h1>
 		  
 		  
 		  
@@ -185,6 +178,34 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <div class="posts-list">
+  
+  <article class="post-preview">
+    <a href="/en/2019-07-26-APSCIT/">
+	  <h2 class="post-title">Invited Talk@APSCIT in Sapporo</h2>
+
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on July 26, 2019
+    </p>
+
+    <div class="post-entry-container">
+      
+      <div class="post-entry">
+        Yusuke attended Asia Pacific Society for Computing and Information Technology (APSCIT) as an invited speaker in Sapporo, Japan.
+
+
+        
+        
+          <a href="/en/2019-07-26-APSCIT/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+    </div>
+
+    
+
+   </article>
   
   <article class="post-preview">
     <a href="/en/2019-04-26-New-Member/">
@@ -291,7 +312,7 @@
 
       
       &nbsp;&bull;&nbsp;
-      <a href="https://yinoue102.github.io/">Yusuke Inoue Lab. Home</a>
+      <a href="https://yinoue102.github.io/">INOUE Yusuke Lab. Home</a>
       
 
       
