@@ -3,8 +3,8 @@
   <channel>
     <title>INOUE Yusuke Lab.</title>
     <description>Welcome to my Lab.</description>
-    <link></link>
-    <atom:link href="/en/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://yinoue102.github.io/</link>
+    <atom:link href="https://yinoue102.github.io//en/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Invited Talk@APSCIT in Sapporo</title>
@@ -18,8 +18,8 @@
 
         </description>
         <pubDate>Fri, 26 Jul 2019 00:00:00 +0900</pubDate>
-        <link>/2019-07-26-APSCIT/</link>
-        <guid isPermaLink="true">/2019-07-26-APSCIT/</guid>
+        <link>https://yinoue102.github.io//2019-07-26-APSCIT/</link>
+        <guid isPermaLink="true">https://yinoue102.github.io//2019-07-26-APSCIT/</guid>
       </item>
     
       <item>
@@ -38,8 +38,8 @@ Welcome to our Lab.!
 
         </description>
         <pubDate>Fri, 26 Apr 2019 00:00:00 +0900</pubDate>
-        <link>/2019-04-26-New-Member/</link>
-        <guid isPermaLink="true">/2019-04-26-New-Member/</guid>
+        <link>https://yinoue102.github.io//2019-04-26-New-Member/</link>
+        <guid isPermaLink="true">https://yinoue102.github.io//2019-04-26-New-Member/</guid>
       </item>
     
       <item>
@@ -50,8 +50,8 @@ Welcome to our Lab.!
 
         </description>
         <pubDate>Sun, 04 Jan 2015 00:00:00 +0900</pubDate>
-        <link>/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">/2015-01-04-first-post/</guid>
+        <link>https://yinoue102.github.io//2015-01-04-first-post/</link>
+        <guid isPermaLink="true">https://yinoue102.github.io//2015-01-04-first-post/</guid>
       </item>
     
   </channel>
