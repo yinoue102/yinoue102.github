@@ -1,58 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>INOUE Yusuke Lab.</title>
-    <description>Welcome to my Lab.</description>
-    <link></link>
-    <atom:link href="/en/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>Invited Talk@APSCIT in Sapporo</title>
-        <description>
-          
-          Yusuke attended Asia Pacific Society for Computing and Information Technology (APSCIT) as an invited speaker in Sapporo, Japan.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://yinoue102.github.io/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/en/" rel="alternate" type="text/html" /><updated>2020-03-14T21:56:13+09:00</updated><id>https://yinoue102.github.io/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to my Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">Graduation Research Presentation (2019)</title><link href="https://yinoue102.github.io/en/2020/02/28/Graduation-Rsearch.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2019)" /><published>2020-02-28T00:00:00+09:00</published><updated>2020-02-28T00:00:00+09:00</updated><id>https://yinoue102.github.io/2020/02/28/Graduation-Rsearch.en</id><content type="html" xml:base="https://yinoue102.github.io/2020/02/28/Graduation-Rsearch.en.html">&lt;p&gt;Inoue Lab. Students present Graduation Research about each following theme.&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;UENO Yuma　
+    &lt;ul&gt;
+      &lt;li&gt;Card Recognition from Characters in Trading Card Game.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;OZAWA Natsuki
+    &lt;ul&gt;
+      &lt;li&gt;Knitting Pattern Generator Using Generative Adversarial Network&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SAGARA Toshinori
+    &lt;ul&gt;
+      &lt;li&gt;Validation of the Effectiveness of Deep Q-Network in Imperfect-Information Games&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;YOSHINAMI So
+    &lt;ul&gt;
+      &lt;li&gt;Picture Recognition for Trading Card Games&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Inoue Lab. Students present Graduation Research about each following theme.</summary></entry><entry xml:lang="en"><title type="html">Invited Talk@APSCIT in Sapporo</title><link href="https://yinoue102.github.io/en/2019-07-26-APSCIT/" rel="alternate" type="text/html" title="Invited Talk@APSCIT in Sapporo" /><published>2019-07-26T00:00:00+09:00</published><updated>2019-07-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/APSCIT-en</id><content type="html" xml:base="https://yinoue102.github.io/2019-07-26-APSCIT/">&lt;p&gt;Yusuke attended Asia Pacific Society for Computing and Information Technology (APSCIT) as an invited speaker in Sapporo, Japan.&lt;/p&gt;
 
-  Yusuke INOUE, Adaptive frame-rate control for low energy visual object tracking system, Jul. 2019, Sapporo.
+&lt;ul&gt;
+  &lt;li&gt;&lt;u&gt;Yusuke INOUE&lt;/u&gt;, Adaptive frame-rate control for low energy visual object tracking system, Jul. 2019, Sapporo.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Yusuke attended Asia Pacific Society for Computing and Information Technology (APSCIT) as an invited speaker in Sapporo, Japan.</summary></entry><entry xml:lang="en"><title type="html">New Members</title><link href="https://yinoue102.github.io/en/2019-04-26-New-Member/" rel="alternate" type="text/html" title="New Members" /><published>2019-04-26T00:00:00+09:00</published><updated>2019-04-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/New-Member-en</id><content type="html" xml:base="https://yinoue102.github.io/2019-04-26-New-Member/">&lt;p&gt;New members joined Inoue Lab.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;UENO Yuma&lt;/li&gt;
+  &lt;li&gt;OZAWA Natsuki&lt;/li&gt;
+  &lt;li&gt;SAGARA Toshinori&lt;/li&gt;
+  &lt;li&gt;YOSHINAMI Sou&lt;/li&gt;
+&lt;/ul&gt;
 
-
-        </description>
-        <pubDate>Fri, 26 Jul 2019 00:00:00 +0900</pubDate>
-        <link>/2019-07-26-APSCIT/</link>
-        <guid isPermaLink="true">/2019-07-26-APSCIT/</guid>
-      </item>
-    
-      <item>
-        <title>New Members</title>
-        <description>
-          
-          New members joined Inoue Lab.
-
-  UENO Yuma
-  OZAWA Natsuki
-  SAGARA Toshinori
-  YOSHINAMI Sou
-
-
-Welcome to our Lab.!
-
-        </description>
-        <pubDate>Fri, 26 Apr 2019 00:00:00 +0900</pubDate>
-        <link>/2019-04-26-New-Member/</link>
-        <guid isPermaLink="true">/2019-04-26-New-Member/</guid>
-      </item>
-    
-      <item>
-        <title>First post!</title>
-        <description>
-          
-          This is my first post, how exciting!
-
-        </description>
-        <pubDate>Sun, 04 Jan 2015 00:00:00 +0900</pubDate>
-        <link>/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">/2015-01-04-first-post/</guid>
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Welcome to our Lab.!&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">New members joined Inoue Lab. UENO Yuma OZAWA Natsuki SAGARA Toshinori YOSHINAMI Sou</summary></entry></feed>

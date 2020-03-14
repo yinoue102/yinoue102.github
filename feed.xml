@@ -1,59 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>INOUE Yusuke Lab.</title>
-    <description>Welcome to my Lab.</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>招待講演@APSCIT in 札幌</title>
-        <description>
-          
-          井上が北海道札幌市で開催された国際会議 Asia Pacific Society for Computing and Information Technology (APSCIT)にて招待講演を行いました．
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://yinoue102.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/" rel="alternate" type="text/html" /><updated>2020-03-14T21:56:08+09:00</updated><id>https://yinoue102.github.io/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to my Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">2019年度卒業研究発表会</title><link href="https://yinoue102.github.io/2020/02/28/Graduation-Rsearch.ja.html" rel="alternate" type="text/html" title="2019年度卒業研究発表会" /><published>2020-02-28T00:00:00+09:00</published><updated>2020-02-28T00:00:00+09:00</updated><id>https://yinoue102.github.io/2020/02/28/Graduation-Rsearch.ja</id><content type="html" xml:base="https://yinoue102.github.io/2020/02/28/Graduation-Rsearch.ja.html">&lt;p&gt;2019年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました．
+各テーマは次の通りです．&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;植野　優磨　くん
+    &lt;ul&gt;
+      &lt;li&gt;トレーディングカードゲームにおける文字からのカード認識について&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;小澤　菜月　さん
+    &lt;ul&gt;
+      &lt;li&gt;GANを用いた編み図ジェネレータの構成のための検討&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;相良　駿昇　くん
+    &lt;ul&gt;
+      &lt;li&gt;不完全情報ゲームにおけるDeep Q-Networkの有効性の検証&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;吉浪　颯　　くん
+    &lt;ul&gt;
+      &lt;li&gt;トレーディングカードゲームのための絵柄認識&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">2019年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．</summary></entry><entry xml:lang="jp"><title type="html">招待講演@APSCIT in 札幌</title><link href="https://yinoue102.github.io/2019-07-26-APSCIT/" rel="alternate" type="text/html" title="招待講演@APSCIT in 札幌" /><published>2019-07-26T00:00:00+09:00</published><updated>2019-07-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/APSCIT-jp</id><content type="html" xml:base="https://yinoue102.github.io/2019-07-26-APSCIT/">&lt;p&gt;井上が北海道札幌市で開催された国際会議 Asia Pacific Society for Computing and Information Technology (APSCIT)にて招待講演を行いました．&lt;/p&gt;
 
-  井上　優良, Adaptive frame-rate control for low energy visual object tracking system, Jul. 2019, Sapporo.
+&lt;ul&gt;
+  &lt;li&gt;&lt;u&gt;井上　優良&lt;/u&gt;, Adaptive frame-rate control for low energy visual object tracking system, Jul. 2019, Sapporo.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">井上が北海道札幌市で開催された国際会議 Asia Pacific Society for Computing and Information Technology (APSCIT)にて招待講演を行いました．</summary></entry><entry xml:lang="jp"><title type="html">新メンバー</title><link href="https://yinoue102.github.io/2019-04-26-New-Member/" rel="alternate" type="text/html" title="新メンバー" /><published>2019-04-26T00:00:00+09:00</published><updated>2019-04-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/New-Member-jp</id><content type="html" xml:base="https://yinoue102.github.io/2019-04-26-New-Member/">&lt;p&gt;今年度から新メンバーとして，&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;植野　優磨　くん&lt;/li&gt;
+  &lt;li&gt;小澤　菜月　さん&lt;/li&gt;
+  &lt;li&gt;相良　駿昇　くん&lt;/li&gt;
+  &lt;li&gt;吉浪　颯　　くん&lt;/li&gt;
+&lt;/ul&gt;
 
-
-        </description>
-        <pubDate>Fri, 26 Jul 2019 00:00:00 +0900</pubDate>
-        <link>/2019-07-26-APSCIT/</link>
-        <guid isPermaLink="true">/2019-07-26-APSCIT/</guid>
-      </item>
-    
-      <item>
-        <title>新メンバー</title>
-        <description>
-          
-          今年度から新メンバーとして，
-
-  植野　優磨　くん
-  小澤　菜月　さん
-  相良　駿昇　くん
-  吉浪　颯　　くん
-
-
-が井上研究室に所属しました！
-皆さんの活躍を期待しています(^^)
-
-        </description>
-        <pubDate>Fri, 26 Apr 2019 00:00:00 +0900</pubDate>
-        <link>/2019-04-26-New-Member/</link>
-        <guid isPermaLink="true">/2019-04-26-New-Member/</guid>
-      </item>
-    
-      <item>
-        <title>First post!</title>
-        <description>
-          
-          This is my first post, how exciting!
-
-        </description>
-        <pubDate>Sun, 04 Jan 2015 00:00:00 +0900</pubDate>
-        <link>/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">/2015-01-04-first-post/</guid>
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;が井上研究室に所属しました！
+皆さんの活躍を期待しています(^^)&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">今年度から新メンバーとして， 植野　優磨　くん 小澤　菜月　さん 相良　駿昇　くん 吉浪　颯　　くん</summary></entry></feed>

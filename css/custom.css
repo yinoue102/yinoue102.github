@@ -1,0 +1,29 @@
+
+.nav-link--extend > li {
+    width: 25%;
+}
+
+.nav-item-extend li {
+    list-style: none;
+    position: relative;
+}
+
+.nav-item-extend li li{
+    height: 0;
+    overflow: hidden;
+    transition: .5s;
+}
+
+.nav-item-extend li li a {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+    font-size: medium
+}
+
+.nav-item-extend li:hover > ul > li {
+    height: 2rem;
+    overflow: visible;
+}
+
+    
