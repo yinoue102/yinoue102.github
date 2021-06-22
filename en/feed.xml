@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/en/feed.xml" rel="self" type="application/atom+xml" /><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/en/" rel="alternate" type="text/html" /><updated>2020-03-19T15:31:56+09:00</updated><id>http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to my Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">Graduation Research Presentation (2019)</title><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/en/2020/02/28/Graduation-Rsearch.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2019)" /><published>2020-02-28T00:00:00+09:00</published><updated>2020-02-28T00:00:00+09:00</updated><id>http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2020/02/28/Graduation-Rsearch.en</id><content type="html" xml:base="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2020/02/28/Graduation-Rsearch.en.html">&lt;p&gt;Inoue Lab. Students present Graduation Research about each following theme.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://yinoue102.github.io/en/feed.xml" rel="self" type="application/atom+xml" /><link href="http://yinoue102.github.io/en/" rel="alternate" type="text/html" /><updated>2021-06-22T22:07:10+09:00</updated><id>http://yinoue102.github.io/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">New Member</title><link href="http://yinoue102.github.io/en/2021-04-09-New-Member/" rel="alternate" type="text/html" title="New Member" /><published>2021-04-09T00:00:00+09:00</published><updated>2021-04-09T00:00:00+09:00</updated><id>http://yinoue102.github.io/New-Member-en</id><content type="html" xml:base="http://yinoue102.github.io/2021-04-09-New-Member/">&lt;p&gt;New members joined Inoue Lab.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Advanced Cource Studens
+    &lt;ul&gt;
+      &lt;li&gt;UENO Yuma     　&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5th Year Students
+    &lt;ul&gt;
+      &lt;li&gt;ABE Koki&lt;/li&gt;
+      &lt;li&gt;ONO Tatsuya&lt;/li&gt;
+      &lt;li&gt;OBAYASHI Kyosuke&lt;/li&gt;
+      &lt;li&gt;HIROSE Kanako&lt;/li&gt;
+      &lt;li&gt;MIYAZAKI Rikuto&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Welcome to our Lab.!&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">New members joined Inoue Lab. Advanced Cource Studens UENO Yuma 　 5th Year Students ABE Koki ONO Tatsuya OBAYASHI Kyosuke HIROSE Kanako MIYAZAKI Rikuto</summary></entry><entry xml:lang="en"><title type="html">Graduation Research Presentation (2020)</title><link href="http://yinoue102.github.io/en/2021/01/26/Graduation-Rsearch.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2020)" /><published>2021-01-26T00:00:00+09:00</published><updated>2021-01-26T00:00:00+09:00</updated><id>http://yinoue102.github.io/2021/01/26/Graduation-Rsearch.en</id><content type="html" xml:base="http://yinoue102.github.io/2021/01/26/Graduation-Rsearch.en.html">&lt;p&gt;Inoue Lab. Students present Graduation Research about each following theme.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ISHII Syumpei
+    &lt;ul&gt;
+      &lt;li&gt;Video Streaming Assistance System using Card Recognition.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;OGATA Sena
+    &lt;ul&gt;
+      &lt;li&gt;Fruit Ripeness Estimation using Convolutional Neural Network.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ONO Kazuyuki
+    &lt;ul&gt;
+      &lt;li&gt;A Study of Automated Scoring System using OCRCard Recognition from Characters in Trading Card Game.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SHIKANO Haruto
+    &lt;ul&gt;
+      &lt;li&gt;Examination of a dialogue system with a natural flow of conversation using
+machine translation.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;HASHIMOTO Ryo
+    &lt;ul&gt;
+      &lt;li&gt;A Study of System for Extracting Go Stone Positions.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Inoue Lab. Students present Graduation Research about each following theme.</summary></entry><entry xml:lang="en"><title type="html">Lab Tour</title><link href="http://yinoue102.github.io/en/2020-10-07-Lab-Tour/" rel="alternate" type="text/html" title="Lab Tour" /><published>2020-10-07T00:00:00+09:00</published><updated>2020-10-07T00:00:00+09:00</updated><id>http://yinoue102.github.io/Lab-Tour-en</id><content type="html" xml:base="http://yinoue102.github.io/2020-10-07-Lab-Tour/">&lt;p&gt;Fifth-year students of the undergraduate course belong to our Lab presented their research to visitors from companies in Oita Prefecture.&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Fifth-year students of the undergraduate course belong to our Lab presented their research to visitors from companies in Oita Prefecture.</summary></entry><entry xml:lang="en"><title type="html">New Member</title><link href="http://yinoue102.github.io/en/2020-06-11-New-Member/" rel="alternate" type="text/html" title="New Member" /><published>2020-06-11T00:00:00+09:00</published><updated>2020-06-11T00:00:00+09:00</updated><id>http://yinoue102.github.io/New-Member-en</id><content type="html" xml:base="http://yinoue102.github.io/2020-06-11-New-Member/">&lt;p&gt;New members joined Inoue Lab.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ISHII Syunpei&lt;/li&gt;
+  &lt;li&gt;OGATA Sena&lt;/li&gt;
+  &lt;li&gt;ONO Kazuyuki&lt;/li&gt;
+  &lt;li&gt;SHIKANO Haruto&lt;/li&gt;
+  &lt;li&gt;HASHIMOTO Ryo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Welcome to our Lab.!&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">New members joined Inoue Lab. ISHII Syunpei OGATA Sena ONO Kazuyuki SHIKANO Haruto HASHIMOTO Ryo</summary></entry><entry xml:lang="en"><title type="html">Graduation Research Presentation (2019)</title><link href="http://yinoue102.github.io/en/2020/02/28/Graduation-Rsearch.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2019)" /><published>2020-02-28T00:00:00+09:00</published><updated>2020-02-28T00:00:00+09:00</updated><id>http://yinoue102.github.io/2020/02/28/Graduation-Rsearch.en</id><content type="html" xml:base="http://yinoue102.github.io/2020/02/28/Graduation-Rsearch.en.html">&lt;p&gt;Inoue Lab. Students present Graduation Research about each following theme.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;UENO Yuma　
@@ -21,11 +77,11 @@
       &lt;li&gt;Picture Recognition for Trading Card Games&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Inoue Lab. Students present Graduation Research about each following theme.</summary></entry><entry xml:lang="en"><title type="html">Invited Talk@APSCIT in Sapporo</title><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/en/2019-07-26-APSCIT/" rel="alternate" type="text/html" title="Invited Talk@APSCIT in Sapporo" /><published>2019-07-26T00:00:00+09:00</published><updated>2019-07-26T00:00:00+09:00</updated><id>http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/APSCIT-en</id><content type="html" xml:base="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2019-07-26-APSCIT/">&lt;p&gt;Yusuke attended Asia Pacific Society for Computing and Information Technology (APSCIT) as an invited speaker in Sapporo, Japan.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Inoue Lab. Students present Graduation Research about each following theme.</summary></entry><entry xml:lang="en"><title type="html">Invited Talk@APSCIT in Sapporo</title><link href="http://yinoue102.github.io/en/2019-07-26-APSCIT/" rel="alternate" type="text/html" title="Invited Talk@APSCIT in Sapporo" /><published>2019-07-26T00:00:00+09:00</published><updated>2019-07-26T00:00:00+09:00</updated><id>http://yinoue102.github.io/APSCIT-en</id><content type="html" xml:base="http://yinoue102.github.io/2019-07-26-APSCIT/">&lt;p&gt;Yusuke attended Asia Pacific Society for Computing and Information Technology (APSCIT) as an invited speaker in Sapporo, Japan.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;u&gt;Yusuke INOUE&lt;/u&gt;, Adaptive frame-rate control for low energy visual object tracking system, Jul. 2019, Sapporo.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Yusuke attended Asia Pacific Society for Computing and Information Technology (APSCIT) as an invited speaker in Sapporo, Japan.</summary></entry><entry xml:lang="en"><title type="html">New Members</title><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/en/2019-04-26-New-Member/" rel="alternate" type="text/html" title="New Members" /><published>2019-04-26T00:00:00+09:00</published><updated>2019-04-26T00:00:00+09:00</updated><id>http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/New-Member-en</id><content type="html" xml:base="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2019-04-26-New-Member/">&lt;p&gt;New members joined Inoue Lab.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Yusuke attended Asia Pacific Society for Computing and Information Technology (APSCIT) as an invited speaker in Sapporo, Japan.</summary></entry><entry xml:lang="en"><title type="html">New Members</title><link href="http://yinoue102.github.io/en/2019-04-26-New-Member/" rel="alternate" type="text/html" title="New Members" /><published>2019-04-26T00:00:00+09:00</published><updated>2019-04-26T00:00:00+09:00</updated><id>http://yinoue102.github.io/New-Member-en</id><content type="html" xml:base="http://yinoue102.github.io/2019-04-26-New-Member/">&lt;p&gt;New members joined Inoue Lab.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;UENO Yuma&lt;/li&gt;
   &lt;li&gt;OZAWA Natsuki&lt;/li&gt;

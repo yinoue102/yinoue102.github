@@ -1,1 +1,1 @@
-Sitemap: http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/sitemap.xml
+Sitemap: http://yinoue102.github.io/sitemap.xml

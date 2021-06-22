@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/feed.xml" rel="self" type="application/atom+xml" /><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/" rel="alternate" type="text/html" /><updated>2020-03-19T15:31:26+09:00</updated><id>http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to my Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">2019年度卒業研究発表会</title><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2020/02/28/Graduation-Rsearch.ja.html" rel="alternate" type="text/html" title="2019年度卒業研究発表会" /><published>2020-02-28T00:00:00+09:00</published><updated>2020-02-28T00:00:00+09:00</updated><id>http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2020/02/28/Graduation-Rsearch.ja</id><content type="html" xml:base="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2020/02/28/Graduation-Rsearch.ja.html">&lt;p&gt;2019年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました．
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://yinoue102.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://yinoue102.github.io/" rel="alternate" type="text/html" /><updated>2021-06-22T22:07:10+09:00</updated><id>http://yinoue102.github.io/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">新メンバー</title><link href="http://yinoue102.github.io/2021-04-09-New-Member/" rel="alternate" type="text/html" title="新メンバー" /><published>2021-04-09T00:00:00+09:00</published><updated>2021-04-09T00:00:00+09:00</updated><id>http://yinoue102.github.io/New-Member-ja</id><content type="html" xml:base="http://yinoue102.github.io/2021-04-09-New-Member/">&lt;p&gt;今年度から新メンバーとして以下の人たちが井上研究室に所属しました！&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;専攻科1年
+    &lt;ul&gt;
+      &lt;li&gt;植野　優磨    　&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;本科5年生
+    &lt;ul&gt;
+      &lt;li&gt;阿部　光希&lt;/li&gt;
+      &lt;li&gt;小野　竜也&lt;/li&gt;
+      &lt;li&gt;尾林　慶亮&lt;/li&gt;
+      &lt;li&gt;廣瀬　花菜子&lt;/li&gt;
+      &lt;li&gt;宮﨑　陸翔&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;皆さんの活躍を期待しています(^^)&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">今年度から新メンバーとして以下の人たちが井上研究室に所属しました！ 専攻科1年 植野　優磨 　 本科5年生 阿部　光希 小野　竜也 尾林　慶亮 廣瀬　花菜子 宮﨑　陸翔</summary></entry><entry xml:lang="ja"><title type="html">2020年度卒業研究発表会</title><link href="http://yinoue102.github.io/2021/01/26/Graduation-Rsearch.ja.html" rel="alternate" type="text/html" title="2020年度卒業研究発表会" /><published>2021-01-26T00:00:00+09:00</published><updated>2021-01-26T00:00:00+09:00</updated><id>http://yinoue102.github.io/2021/01/26/Graduation-Rsearch.ja</id><content type="html" xml:base="http://yinoue102.github.io/2021/01/26/Graduation-Rsearch.ja.html">&lt;p&gt;2020年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました．
+各テーマは次の通りです．&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;石井 俊平
+    &lt;ul&gt;
+      &lt;li&gt;カード認識を用いた動画配信補助システム&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;緒方 聖七
+    &lt;ul&gt;
+      &lt;li&gt;Convolutional Neural Network を用いた果実の熟度判定&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;小野 和志　
+    &lt;ul&gt;
+      &lt;li&gt;OCR を用いた採点自動化システムの検討&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;鹿野 陽人
+    &lt;ul&gt;
+      &lt;li&gt;機械翻訳を用いた話の流れが自然な対話システムの検討&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;橋本 燎
+    &lt;ul&gt;
+      &lt;li&gt;囲碁における碁石識別システムの検討&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">2020年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．</summary></entry><entry xml:lang="ja"><title type="html">ラボツアー発表</title><link href="http://yinoue102.github.io/2020-10-07-Lab-Tour/" rel="alternate" type="text/html" title="ラボツアー発表" /><published>2020-10-07T00:00:00+09:00</published><updated>2020-10-07T00:00:00+09:00</updated><id>http://yinoue102.github.io/Lab-Tour-ja</id><content type="html" xml:base="http://yinoue102.github.io/2020-10-07-Lab-Tour/">&lt;p&gt;大分県内の企業から見学者がラボツアーとして来訪され，本研究室に所属する本科5年生が各々の研究について発表を行いました．&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">大分県内の企業から見学者がラボツアーとして来訪され，本研究室に所属する本科5年生が各々の研究について発表を行いました．</summary></entry><entry xml:lang="ja"><title type="html">新メンバー</title><link href="http://yinoue102.github.io/2020-06-11-New-Member/" rel="alternate" type="text/html" title="新メンバー" /><published>2020-06-11T00:00:00+09:00</published><updated>2020-06-11T00:00:00+09:00</updated><id>http://yinoue102.github.io/New-Member-ja</id><content type="html" xml:base="http://yinoue102.github.io/2020-06-11-New-Member/">&lt;p&gt;今年度から新メンバーとして，&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;石井　俊平　くん&lt;/li&gt;
+  &lt;li&gt;緒方　聖七　くん&lt;/li&gt;
+  &lt;li&gt;小野　和志　くん&lt;/li&gt;
+  &lt;li&gt;鹿野　陽人　くん&lt;/li&gt;
+  &lt;li&gt;橋本　燎　　くん&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;が井上研究室に所属しました！
+皆さんの活躍を期待しています(^^)&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">今年度から新メンバーとして， 石井　俊平　くん 緒方　聖七　くん 小野　和志　くん 鹿野　陽人　くん 橋本　燎　　くん</summary></entry><entry xml:lang="ja"><title type="html">2019年度卒業研究発表会</title><link href="http://yinoue102.github.io/2020/02/28/Graduation-Rsearch.ja.html" rel="alternate" type="text/html" title="2019年度卒業研究発表会" /><published>2020-02-28T00:00:00+09:00</published><updated>2020-02-28T00:00:00+09:00</updated><id>http://yinoue102.github.io/2020/02/28/Graduation-Rsearch.ja</id><content type="html" xml:base="http://yinoue102.github.io/2020/02/28/Graduation-Rsearch.ja.html">&lt;p&gt;2019年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました．
 各テーマは次の通りです．&lt;/p&gt;
 
 &lt;ul&gt;
@@ -22,11 +79,11 @@
       &lt;li&gt;トレーディングカードゲームのための絵柄認識&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">2019年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．</summary></entry><entry xml:lang="jp"><title type="html">招待講演@APSCIT in 札幌</title><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2019-07-26-APSCIT/" rel="alternate" type="text/html" title="招待講演@APSCIT in 札幌" /><published>2019-07-26T00:00:00+09:00</published><updated>2019-07-26T00:00:00+09:00</updated><id>http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/APSCIT-jp</id><content type="html" xml:base="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2019-07-26-APSCIT/">&lt;p&gt;井上が北海道札幌市で開催された国際会議 Asia Pacific Society for Computing and Information Technology (APSCIT)にて招待講演を行いました．&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">2019年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．</summary></entry><entry xml:lang="jp"><title type="html">招待講演@APSCIT in 札幌</title><link href="http://yinoue102.github.io/2019-07-26-APSCIT/" rel="alternate" type="text/html" title="招待講演@APSCIT in 札幌" /><published>2019-07-26T00:00:00+09:00</published><updated>2019-07-26T00:00:00+09:00</updated><id>http://yinoue102.github.io/APSCIT-jp</id><content type="html" xml:base="http://yinoue102.github.io/2019-07-26-APSCIT/">&lt;p&gt;井上が北海道札幌市で開催された国際会議 Asia Pacific Society for Computing and Information Technology (APSCIT)にて招待講演を行いました．&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;u&gt;井上　優良&lt;/u&gt;, Adaptive frame-rate control for low energy visual object tracking system, Jul. 2019, Sapporo.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">井上が北海道札幌市で開催された国際会議 Asia Pacific Society for Computing and Information Technology (APSCIT)にて招待講演を行いました．</summary></entry><entry xml:lang="jp"><title type="html">新メンバー</title><link href="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2019-04-26-New-Member/" rel="alternate" type="text/html" title="新メンバー" /><published>2019-04-26T00:00:00+09:00</published><updated>2019-04-26T00:00:00+09:00</updated><id>http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/New-Member-jp</id><content type="html" xml:base="http://onct.oita-ct.ac.jp/seigyo/inoue_hp/_site/seigyo/inoue_hp/_site/2019-04-26-New-Member/">&lt;p&gt;今年度から新メンバーとして，&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">井上が北海道札幌市で開催された国際会議 Asia Pacific Society for Computing and Information Technology (APSCIT)にて招待講演を行いました．</summary></entry><entry xml:lang="jp"><title type="html">新メンバー</title><link href="http://yinoue102.github.io/2019-04-26-New-Member/" rel="alternate" type="text/html" title="新メンバー" /><published>2019-04-26T00:00:00+09:00</published><updated>2019-04-26T00:00:00+09:00</updated><id>http://yinoue102.github.io/New-Member-jp</id><content type="html" xml:base="http://yinoue102.github.io/2019-04-26-New-Member/">&lt;p&gt;今年度から新メンバーとして，&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;植野　優磨　くん&lt;/li&gt;
   &lt;li&gt;小澤　菜月　さん&lt;/li&gt;
