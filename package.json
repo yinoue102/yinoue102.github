@@ -26,9 +26,9 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git"
     },
     "dependencies": {
-        "bootstrap": "5.0.1",
+        "bootstrap": "5.0.2",
         "font-awesome": "4.7.0",
         "jquery": "3.6.0",
-        "startbootstrap-clean-blog": "6.0.3"
+        "startbootstrap-clean-blog": "6.0.4"
     }
 }
