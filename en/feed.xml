@@ -1,109 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/yinoue102.github/en/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/yinoue102.github/en/" rel="alternate" type="text/html" /><updated>2022-08-01T16:57:33+09:00</updated><id>http://localhost:4000/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">Start on Collaboration with Oita Prefecture</title><link href="http://localhost:4000/yinoue102.github/en/2022/05/20/AgriCollaboration.en.html" rel="alternate" type="text/html" title="Start on Collaboration with Oita Prefecture" /><published>2022-05-20T00:00:00+09:00</published><updated>2022-05-20T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/2022/05/20/AgriCollaboration.en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2022/05/20/AgriCollaboration.en.html"><![CDATA[<p>We have started on two collaborations with Oita Prefecture.</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[We have started on two collaborations with Oita Prefecture.]]></summary></entry><entry xml:lang="en"><title type="html">New Member</title><link href="http://localhost:4000/yinoue102.github/en/2022-04-08-New-Member/" rel="alternate" type="text/html" title="New Member" /><published>2022-04-08T00:00:00+09:00</published><updated>2022-04-08T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/New-Member-en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2022-04-08-New-Member/"><![CDATA[<p>New members joined Inoue Lab.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/en/" rel="alternate" type="text/html" /><updated>2023-02-01T23:58:26+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">Graduation Research Presentation (2022)</title><link href="https://yinoue102.github.io/yinoue102.github/en/2023/01/26/Graduation-Research.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2022)" /><published>2023-01-26T00:00:00+09:00</published><updated>2023-01-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2023/01/26/Graduation-Research.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2023/01/26/Graduation-Research.en.html">&lt;p&gt;Inoue Lab. students present Graduation Research about each following theme.&lt;/p&gt;
 
-<ul>
-  <li>Advanced Cource Studens
-    <ul>
-      <li>ABE Koki</li>
-      <li>ONO Tatsuya</li>
-    </ul>
-  </li>
-  <li>5th Year Students
-    <ul>
-      <li>ANDO Takuto</li>
-      <li>MATSUSHITA Sena</li>
-      <li>MIENO Kairi</li>
-      <li>MORISHITA Eishin</li>
-    </ul>
-  </li>
-</ul>
+&lt;h2 id=&quot;advanced-cource-students&quot;&gt;Advanced Cource Students&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;UENO Yuma
+    &lt;ul&gt;
+      &lt;li&gt;A Study of Unmasked Face Image Generation by GAN&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-<p>Welcome to our Lab.!</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[New members joined Inoue Lab.]]></summary></entry><entry xml:lang="en"><title type="html">Graduation Research Presentation (2021)</title><link href="http://localhost:4000/yinoue102.github/en/2022/01/25/Graduation-Rsearch.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2021)" /><published>2022-01-25T00:00:00+09:00</published><updated>2022-01-25T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/2022/01/25/Graduation-Rsearch.en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2022/01/25/Graduation-Rsearch.en.html"><![CDATA[<p>Inoue Lab. students present Graduation Research about each following theme.</p>
+&lt;h2 id=&quot;5th-year-studens&quot;&gt;5th Year Studens&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;ANDO Takuto
+    &lt;ul&gt;
+      &lt;li&gt;Extraction of Welsh Onion Branches using Edge Detection&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;MATSUSHITA Sena
+    &lt;ul&gt;
+      &lt;li&gt;Acceleration of Particle Filter with LRF by Line Intersection Detection&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;MIENO Kairi
+    &lt;ul&gt;
+      &lt;li&gt;Estimation of Tree Canopy Volume using Drone Images&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Morishita Eishin
+    &lt;ul&gt;
+      &lt;li&gt;Information Display to Encourage Driver to Stop at Crosswalks without Signals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Inoue Lab. students present Graduation Research about each following theme.</summary></entry><entry xml:lang="en"><title type="html">Start on Cosignment Study from Oita Prefecture</title><link href="https://yinoue102.github.io/yinoue102.github/en/2022/12/01/AgriConsignment.en.html" rel="alternate" type="text/html" title="Start on Cosignment Study from Oita Prefecture" /><published>2022-12-01T00:00:00+09:00</published><updated>2022-12-01T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/12/01/AgriConsignment.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/12/01/AgriConsignment.en.html">&lt;p&gt;We have started on Cosignment Study from Oita Prefecture.&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">We have started on Cosignment Study from Oita Prefecture.</summary></entry><entry xml:lang="en"><title type="html">Online Studnet Presentation@Kyushu Section, IEICE</title><link href="https://yinoue102.github.io/yinoue102.github/en/2022/09/23/IEICE-Student-Presentation.en.html" rel="alternate" type="text/html" title="Online Studnet Presentation@Kyushu Section, IEICE" /><published>2022-09-23T00:00:00+09:00</published><updated>2022-09-23T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/09/23/IEICE-Student-Presentation.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/09/23/IEICE-Student-Presentation.en.html">&lt;p&gt;Our lab students gave online presentation at Kyushu Section, IEICE.&lt;/p&gt;
 
-<ul>
-  <li>ABE Koki
-    <ul>
-      <li>UI for XR Based on Flick Input</li>
-    </ul>
-  </li>
-  <li>ONO Tatsuya
-    <ul>
-      <li>A Person Tracking Method for Automated Shooting of Fancam</li>
-    </ul>
-  </li>
-  <li>OBAYASHI Kyosuke
-    <ul>
-      <li>An XR User Interface for Agricultural Workers</li>
-    </ul>
-  </li>
-  <li>HIROSE Kanako
-    <ul>
-      <li>Crop Growth Analysis Tool by Using Pseudo NDVI Images machine translation</li>
-    </ul>
-  </li>
-  <li>MIYAZAKI Rikuto
-    <ul>
-      <li>Validating of Image Correction in Handwritten Character Recognition</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[Inoue Lab. students present Graduation Research about each following theme.]]></summary></entry><entry xml:lang="ja"><title type="html">月刊高専にICLab.のインタビュー記事が掲載</title><link href="http://localhost:4000/yinoue102.github/en/2021-07-26-GekkanKosen/" rel="alternate" type="text/html" title="月刊高専にICLab.のインタビュー記事が掲載" /><published>2021-07-26T00:00:00+09:00</published><updated>2021-07-26T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/GekkanKosen.ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021-07-26-GekkanKosen/"><![CDATA[<p>メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました．</p>
+&lt;ol&gt;
+  &lt;li&gt;&lt;u&gt;松下 晴南&lt;/u&gt;, 井上 優良, “LRFを用いた粒子フィルタにおける線分交差判定のGPU実装による高速化”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-02, Sep, 2022.&lt;/li&gt;
+  &lt;li&gt;&lt;u&gt;植野 優磨&lt;/u&gt;, 井上 優良, “GANによるマスク無し顔画像生成の検討”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-34, Sep, 2022.&lt;/li&gt;
+  &lt;li&gt;&lt;u&gt;廣瀬 花菜子&lt;/u&gt;, 井上 優良, 嶋田 浩和, “ほ場画像セグメンテーションのための色空間の検討”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-39, Sep, 2022.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Our lab students gave online presentation at Kyushu Section, IEICE.</summary></entry><entry xml:lang="en"><title type="html">Start on Collaboration with Oita Prefecture</title><link href="https://yinoue102.github.io/yinoue102.github/en/2022/05/20/AgriCollaboration.en.html" rel="alternate" type="text/html" title="Start on Collaboration with Oita Prefecture" /><published>2022-05-20T00:00:00+09:00</published><updated>2022-05-20T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/05/20/AgriCollaboration.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/05/20/AgriCollaboration.en.html">&lt;p&gt;We have started on two collaborations with Oita Prefecture.&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">We have started on two collaborations with Oita Prefecture.</summary></entry><entry xml:lang="en"><title type="html">New Member</title><link href="https://yinoue102.github.io/yinoue102.github/en/2022/04/08/New-Member.en.html" rel="alternate" type="text/html" title="New Member" /><published>2022-04-08T00:00:00+09:00</published><updated>2022-04-08T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/04/08/New-Member.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/04/08/New-Member.en.html">&lt;p&gt;New members joined Inoue Lab.&lt;/p&gt;
 
-<p>ICLab.に集う「博士と天才」、地域産業の発展を目指して<br />
-<a href="https://gekkan-kosen.com/2528/">前編</a><br />
-<a href="https://gekkan-kosen.com/2561/">後編</a></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました． ICLab.に集う「博士と天才」、地域産業の発展を目指して 前編 後編]]></summary></entry><entry xml:lang="en"><title type="html">Start on Collaboration with Oita Prefecture</title><link href="http://localhost:4000/yinoue102.github/en/2021/07/10/AgriCollaboration.en.html" rel="alternate" type="text/html" title="Start on Collaboration with Oita Prefecture" /><published>2021-07-10T00:00:00+09:00</published><updated>2021-07-10T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/2021/07/10/AgriCollaboration.en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021/07/10/AgriCollaboration.en.html"><![CDATA[<p>We have started on two collaborations with Oita Prefecture.</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[We have started on two collaborations with Oita Prefecture.]]></summary></entry><entry xml:lang="en"><title type="html">ICLab. First Online Meeting</title><link href="http://localhost:4000/yinoue102.github/en/2021-07-05-ICLabFirstMeeting/" rel="alternate" type="text/html" title="ICLab. First Online Meeting" /><published>2021-07-05T00:00:00+09:00</published><updated>2021-07-05T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/ICLabFirstMeeting.en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021-07-05-ICLabFirstMeeting/"><![CDATA[<p>ICLab.(Oita Kosen and Ariake Kosen) held first online meeting.
-<img src="/yinoue102.github/img/posts/2021/07/351.jpg" alt="2021Meeting" /></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[ICLab.(Oita Kosen and Ariake Kosen) held first online meeting.]]></summary></entry><entry xml:lang="en"><title type="html">New Member</title><link href="http://localhost:4000/yinoue102.github/en/2021-04-09-New-Member/" rel="alternate" type="text/html" title="New Member" /><published>2021-04-09T00:00:00+09:00</published><updated>2021-04-09T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/New-Member-en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021-04-09-New-Member/"><![CDATA[<p>New members joined Inoue Lab.</p>
-<ul>
-  <li>Advanced Cource Studens
-    <ul>
-      <li>UENO Yuma     　</li>
-    </ul>
-  </li>
-  <li>5th Year Students
-    <ul>
-      <li>ABE Koki</li>
-      <li>ONO Tatsuya</li>
-      <li>OBAYASHI Kyosuke</li>
-      <li>HIROSE Kanako</li>
-      <li>MIYAZAKI Rikuto</li>
-    </ul>
-  </li>
-</ul>
+&lt;ul&gt;
+  &lt;li&gt;Advanced Cource Studens
+    &lt;ul&gt;
+      &lt;li&gt;ABE Koki&lt;/li&gt;
+      &lt;li&gt;ONO Tatsuya&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5th Year Students
+    &lt;ul&gt;
+      &lt;li&gt;ANDO Takuto&lt;/li&gt;
+      &lt;li&gt;MATSUSHITA Sena&lt;/li&gt;
+      &lt;li&gt;MIENO Kairi&lt;/li&gt;
+      &lt;li&gt;MORISHITA Eishin&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-<p>Welcome to our Lab.!</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[New members joined Inoue Lab. Advanced Cource Studens UENO Yuma 　 5th Year Students ABE Koki ONO Tatsuya OBAYASHI Kyosuke HIROSE Kanako MIYAZAKI Rikuto]]></summary></entry><entry xml:lang="en"><title type="html">Graduation Research Presentation (2020)</title><link href="http://localhost:4000/yinoue102.github/en/2021/01/26/Graduation-Rsearch.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2020)" /><published>2021-01-26T00:00:00+09:00</published><updated>2021-01-26T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/2021/01/26/Graduation-Rsearch.en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021/01/26/Graduation-Rsearch.en.html"><![CDATA[<p>Inoue Lab. Students present Graduation Research about each following theme.</p>
+&lt;p&gt;Welcome to our Lab.!&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">New members joined Inoue Lab.</summary></entry><entry xml:lang="en"><title type="html">Graduation Research Presentation (2021)</title><link href="https://yinoue102.github.io/yinoue102.github/en/2022/01/25/Graduation-Rsearch.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2021)" /><published>2022-01-25T00:00:00+09:00</published><updated>2022-01-25T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/01/25/Graduation-Rsearch.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/01/25/Graduation-Rsearch.en.html">&lt;p&gt;Inoue Lab. students present Graduation Research about each following theme.&lt;/p&gt;
 
-<ul>
-  <li>ISHII Syumpei
-    <ul>
-      <li>Video Streaming Assistance System using Card Recognition.</li>
-    </ul>
-  </li>
-  <li>OGATA Sena
-    <ul>
-      <li>Fruit Ripeness Estimation using Convolutional Neural Network.</li>
-    </ul>
-  </li>
-  <li>ONO Kazuyuki
-    <ul>
-      <li>A Study of Automated Scoring System using OCRCard Recognition from Characters in Trading Card Game.</li>
-    </ul>
-  </li>
-  <li>SHIKANO Haruto
-    <ul>
-      <li>Examination of a dialogue system with a natural flow of conversation using
-machine translation.</li>
-    </ul>
-  </li>
-  <li>HASHIMOTO Ryo
-    <ul>
-      <li>A Study of System for Extracting Go Stone Positions.</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[Inoue Lab. Students present Graduation Research about each following theme.]]></summary></entry><entry xml:lang="en"><title type="html">Lab Tour</title><link href="http://localhost:4000/yinoue102.github/en/2020-10-07-Lab-Tour/" rel="alternate" type="text/html" title="Lab Tour" /><published>2020-10-07T00:00:00+09:00</published><updated>2020-10-07T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/Lab-Tour-en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2020-10-07-Lab-Tour/"><![CDATA[<p>Fifth-year students of the undergraduate course belong to our Lab presented their research to visitors from companies in Oita Prefecture.</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[Fifth-year students of the undergraduate course belong to our Lab presented their research to visitors from companies in Oita Prefecture.]]></summary></entry><entry xml:lang="en"><title type="html">New Member</title><link href="http://localhost:4000/yinoue102.github/en/2020-06-11-New-Member/" rel="alternate" type="text/html" title="New Member" /><published>2020-06-11T00:00:00+09:00</published><updated>2020-06-11T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/New-Member-en</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2020-06-11-New-Member/"><![CDATA[<p>New members joined Inoue Lab.</p>
-<ul>
-  <li>ISHII Syunpei</li>
-  <li>OGATA Sena</li>
-  <li>ONO Kazuyuki</li>
-  <li>SHIKANO Haruto</li>
-  <li>HASHIMOTO Ryo</li>
-</ul>
+&lt;ul&gt;
+  &lt;li&gt;ABE Koki
+    &lt;ul&gt;
+      &lt;li&gt;UI for XR Based on Flick Input&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ONO Tatsuya
+    &lt;ul&gt;
+      &lt;li&gt;A Person Tracking Method for Automated Shooting of Fancam&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;OBAYASHI Kyosuke
+    &lt;ul&gt;
+      &lt;li&gt;An XR User Interface for Agricultural Workers&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;HIROSE Kanako
+    &lt;ul&gt;
+      &lt;li&gt;Crop Growth Analysis Tool by Using Pseudo NDVI Images machine translation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;MIYAZAKI Rikuto
+    &lt;ul&gt;
+      &lt;li&gt;Validating of Image Correction in Handwritten Character Recognition&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">Inoue Lab. students present Graduation Research about each following theme.</summary></entry><entry xml:lang="ja"><title type="html">月刊高専にICLab.のインタビュー記事が掲載</title><link href="https://yinoue102.github.io/yinoue102.github/en/2021/07/26/GekkanKosen.ja.html" rel="alternate" type="text/html" title="月刊高専にICLab.のインタビュー記事が掲載" /><published>2021-07-26T00:00:00+09:00</published><updated>2021-07-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/07/26/GekkanKosen.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/07/26/GekkanKosen.ja.html">&lt;p&gt;メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました．&lt;/p&gt;
 
-<p>Welcome to our Lab.!</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[New members joined Inoue Lab. ISHII Syunpei OGATA Sena ONO Kazuyuki SHIKANO Haruto HASHIMOTO Ryo]]></summary></entry></feed>
+&lt;p&gt;ICLab.に集う「博士と天才」、地域産業の発展を目指して&lt;br /&gt;
+&lt;a href=&quot;https://gekkan-kosen.com/2528/&quot;&gt;前編&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://gekkan-kosen.com/2561/&quot;&gt;後編&lt;/a&gt;&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました． ICLab.に集う「博士と天才」、地域産業の発展を目指して 前編 後編</summary></entry><entry xml:lang="en"><title type="html">Start on Collaboration with Oita Prefecture</title><link href="https://yinoue102.github.io/yinoue102.github/en/2021/07/10/AgriCollaboration.en.html" rel="alternate" type="text/html" title="Start on Collaboration with Oita Prefecture" /><published>2021-07-10T00:00:00+09:00</published><updated>2021-07-10T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/07/10/AgriCollaboration.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/07/10/AgriCollaboration.en.html">&lt;p&gt;We have started on two collaborations with Oita Prefecture.&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">We have started on two collaborations with Oita Prefecture.</summary></entry><entry xml:lang="en"><title type="html">ICLab. First Online Meeting</title><link href="https://yinoue102.github.io/yinoue102.github/en/2021/07/05/ICLabFirstMeeting.en.html" rel="alternate" type="text/html" title="ICLab. First Online Meeting" /><published>2021-07-05T00:00:00+09:00</published><updated>2021-07-05T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/07/05/ICLabFirstMeeting.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/07/05/ICLabFirstMeeting.en.html">&lt;p&gt;ICLab.(Oita Kosen and Ariake Kosen) held first online meeting.
+&lt;img src=&quot;/yinoue102.github/img/posts/2021/07/351.jpg&quot; alt=&quot;2021Meeting&quot; /&gt;&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">ICLab.(Oita Kosen and Ariake Kosen) held first online meeting.</summary></entry><entry xml:lang="en"><title type="html">New Member</title><link href="https://yinoue102.github.io/yinoue102.github/en/2021/04/09/New-Member.en.html" rel="alternate" type="text/html" title="New Member" /><published>2021-04-09T00:00:00+09:00</published><updated>2021-04-09T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/04/09/New-Member.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/04/09/New-Member.en.html">&lt;p&gt;New members joined Inoue Lab.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Advanced Cource Studens
+    &lt;ul&gt;
+      &lt;li&gt;UENO Yuma     　&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5th Year Students
+    &lt;ul&gt;
+      &lt;li&gt;ABE Koki&lt;/li&gt;
+      &lt;li&gt;ONO Tatsuya&lt;/li&gt;
+      &lt;li&gt;OBAYASHI Kyosuke&lt;/li&gt;
+      &lt;li&gt;HIROSE Kanako&lt;/li&gt;
+      &lt;li&gt;MIYAZAKI Rikuto&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Welcome to our Lab.!&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">New members joined Inoue Lab. Advanced Cource Studens UENO Yuma 　 5th Year Students ABE Koki ONO Tatsuya OBAYASHI Kyosuke HIROSE Kanako MIYAZAKI Rikuto</summary></entry></feed>

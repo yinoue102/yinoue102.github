@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/yinoue102.github/sitemap.xml
+Sitemap: https://yinoue102.github.io/yinoue102.github/sitemap.xml

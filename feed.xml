@@ -1,124 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/yinoue102.github/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/yinoue102.github/" rel="alternate" type="text/html" /><updated>2022-08-01T16:57:33+09:00</updated><id>http://localhost:4000/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">大分県農林水産研究指導センターとの共同研究がスタート</title><link href="http://localhost:4000/yinoue102.github/2022/05/20/AgriCollaboration.ja.html" rel="alternate" type="text/html" title="大分県農林水産研究指導センターとの共同研究がスタート" /><published>2022-05-20T00:00:00+09:00</published><updated>2022-05-20T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/2022/05/20/AgriCollaboration.ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2022/05/20/AgriCollaboration.ja.html"><![CDATA[<p>昨年度に引き続き，大分県農林水産研究指導センターと本研究室の間で2件の共同研究がスタートしました！</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/" rel="alternate" type="text/html" /><updated>2023-02-01T23:58:25+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">2022年度卒業研究,特別研究発表</title><link href="https://yinoue102.github.io/yinoue102.github/2023/01/26/Graduation-Research.ja.html" rel="alternate" type="text/html" title="2022年度卒業研究,特別研究発表" /><published>2023-01-26T00:00:00+09:00</published><updated>2023-01-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2023/01/26/Graduation-Research.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2023/01/26/Graduation-Research.ja.html">&lt;p&gt;2022年度卒業研究，特別研究の発表を行いました．研究を一つの論文にまとめあげ，発表しました．
+各テーマは次の通りです．&lt;/p&gt;
 
-<ul>
-  <li>ドローンリモートセンシングによる大規模経営体の経営効率化支援技術の確立</li>
-  <li>スマート技術の活用と新植栽方式による温州みかんの省力化技術の開発</li>
-</ul>
+&lt;h2 id=&quot;専攻科-特別研究&quot;&gt;専攻科 特別研究&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;植野 優磨
+    &lt;ul&gt;
+      &lt;li&gt;GANによるマスク無し顔画像生成の検討&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-<p>共同研究を通じて，地域の活性化へ貢献していきます．</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[昨年度に引き続き，大分県農林水産研究指導センターと本研究室の間で2件の共同研究がスタートしました！]]></summary></entry><entry xml:lang="ja"><title type="html">新メンバー</title><link href="http://localhost:4000/yinoue102.github/2022-04-08-New-Member/" rel="alternate" type="text/html" title="新メンバー" /><published>2022-04-08T00:00:00+09:00</published><updated>2022-04-08T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/New-Member-ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2022-04-08-New-Member/"><![CDATA[<p>今年度から新メンバーとして以下の人たちが井上研究室に所属しました！</p>
+&lt;h2 id=&quot;本科卒業研究&quot;&gt;本科　卒業研究&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;安藤 拓翔
+    &lt;ul&gt;
+      &lt;li&gt;エッジ検出を用いたこねぎ分岐部の抽出&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;松下 晴南
+    &lt;ul&gt;
+      &lt;li&gt;線分交差判定によるLRFを用いた粒子フィルタ高速化&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;三重野　海吏
+    &lt;ul&gt;
+      &lt;li&gt;ドローン空撮画像を用いた樹冠容積の推定&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;森下　詠心
+    &lt;ul&gt;
+      &lt;li&gt;歩行者優先を促す情報表示の検討&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">2022年度卒業研究，特別研究の発表を行いました．研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．</summary></entry><entry xml:lang="ja"><title type="html">大分県との受託研究がスタート</title><link href="https://yinoue102.github.io/yinoue102.github/2022/12/01/AgriConsignment.ja.html" rel="alternate" type="text/html" title="大分県との受託研究がスタート" /><published>2022-12-01T00:00:00+09:00</published><updated>2022-12-01T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/12/01/AgriConsignment.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/12/01/AgriConsignment.ja.html">&lt;p&gt;大分県から以下の研究を受託しました！&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;調製作業効率化に向けた、画像からねぎの分岐部を認識する手法の研究&lt;/li&gt;
+&lt;/ul&gt;
 
-<ul>
-  <li>専攻科1年
-    <ul>
-      <li>阿部　光希</li>
-      <li>小野　竜也</li>
-    </ul>
-  </li>
-  <li>本科5年生
-    <ul>
-      <li>安藤　拓翔</li>
-      <li>松下　晴南</li>
-      <li>三重野　海吏</li>
-      <li>森下　詠心</li>
-    </ul>
-  </li>
-</ul>
+&lt;p&gt;受託研究を通じて，地域の活性化へ貢献していきます．&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">大分県から以下の研究を受託しました！ 調製作業効率化に向けた、画像からねぎの分岐部を認識する手法の研究</summary></entry><entry xml:lang="ja"><title type="html">学生発表@電子情報通信会九州支部学生会講演会 in オンライン</title><link href="https://yinoue102.github.io/yinoue102.github/2022/09/23/IEICE-Student-Presentation.ja.html" rel="alternate" type="text/html" title="学生発表@電子情報通信会九州支部学生会講演会 in オンライン" /><published>2022-09-23T00:00:00+09:00</published><updated>2022-09-23T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/09/23/IEICE-Student-Presentation.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/09/23/IEICE-Student-Presentation.ja.html">&lt;p&gt;井上研の学生と卒業生がオンラインで開催された電子情報通信学会九州支部学生会講演会にて発表を行いました．
+日頃の成果をまとめ，多くの質疑応答を受けることができました．&lt;/p&gt;
 
-<p>皆さんの活躍を期待しています(^^)</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[今年度から新メンバーとして以下の人たちが井上研究室に所属しました！]]></summary></entry><entry xml:lang="ja"><title type="html">2021年度卒業研究発表会</title><link href="http://localhost:4000/yinoue102.github/2022/01/25/Graduation-Rsearch.ja.html" rel="alternate" type="text/html" title="2021年度卒業研究発表会" /><published>2022-01-25T00:00:00+09:00</published><updated>2022-01-25T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/2022/01/25/Graduation-Rsearch.ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2022/01/25/Graduation-Rsearch.ja.html"><![CDATA[<p>2021年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました．
-各テーマは次の通りです．</p>
+&lt;ol&gt;
+  &lt;li&gt;&lt;u&gt;松下 晴南&lt;/u&gt;, 井上 優良, “LRFを用いた粒子フィルタにおける線分交差判定のGPU実装による高速化”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-02, Sep, 2022.&lt;/li&gt;
+  &lt;li&gt;&lt;u&gt;植野 優磨&lt;/u&gt;, 井上 優良, “GANによるマスク無し顔画像生成の検討”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-34, Sep, 2022.&lt;/li&gt;
+  &lt;li&gt;&lt;u&gt;廣瀬 花菜子&lt;/u&gt;, 井上 優良, 嶋田 浩和, “ほ場画像セグメンテーションのための色空間の検討”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-39, Sep, 2022.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">井上研の学生と卒業生がオンラインで開催された電子情報通信学会九州支部学生会講演会にて発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．</summary></entry><entry xml:lang="ja"><title type="html">大分県農林水産研究指導センターとの共同研究がスタート</title><link href="https://yinoue102.github.io/yinoue102.github/2022/05/20/AgriCollaboration.ja.html" rel="alternate" type="text/html" title="大分県農林水産研究指導センターとの共同研究がスタート" /><published>2022-05-20T00:00:00+09:00</published><updated>2022-05-20T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/05/20/AgriCollaboration.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/05/20/AgriCollaboration.ja.html">&lt;p&gt;昨年度に引き続き，大分県農林水産研究指導センターと本研究室の間で2件の共同研究がスタートしました！&lt;/p&gt;
 
-<ul>
-  <li>阿部　光希
-    <ul>
-      <li>フリック入力に基づいたXRのためのUI</li>
-    </ul>
-  </li>
-  <li>小野 竜也
-    <ul>
-      <li>推しカメラの自動撮影に向けた人物追跡手法の検討</li>
-    </ul>
-  </li>
-  <li>尾林 慶亮
-    <ul>
-      <li>XRデバイスを用いた農業従事者へ向けたUIの検討</li>
-    </ul>
-  </li>
-  <li>廣瀬 花菜子
-    <ul>
-      <li>擬似NDVI画像を用いた農作物の生育状況確認ツールの開発</li>
-    </ul>
-  </li>
-  <li>宮崎 陸翔
-    <ul>
-      <li>自由手書き文字認識における画像補正の有効性検証</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[2021年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．]]></summary></entry><entry xml:lang="ja"><title type="html">月刊高専にICLab.のインタビュー記事が掲載</title><link href="http://localhost:4000/yinoue102.github/2021-07-26-GekkanKosen/" rel="alternate" type="text/html" title="月刊高専にICLab.のインタビュー記事が掲載" /><published>2021-07-26T00:00:00+09:00</published><updated>2021-07-26T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/GekkanKosen.ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021-07-26-GekkanKosen/"><![CDATA[<p>メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました．</p>
+&lt;ul&gt;
+  &lt;li&gt;ドローンリモートセンシングによる大規模経営体の経営効率化支援技術の確立&lt;/li&gt;
+  &lt;li&gt;スマート技術の活用と新植栽方式による温州みかんの省力化技術の開発&lt;/li&gt;
+&lt;/ul&gt;
 
-<p>ICLab.に集う「博士と天才」、地域産業の発展を目指して<br />
-<a href="https://gekkan-kosen.com/2528/">前編</a><br />
-<a href="https://gekkan-kosen.com/2561/">後編</a></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました． ICLab.に集う「博士と天才」、地域産業の発展を目指して 前編 後編]]></summary></entry><entry xml:lang="ja"><title type="html">大分県農林水産研究指導センターとの共同研究がスタート</title><link href="http://localhost:4000/yinoue102.github/2021/07/10/AgriCollaboration.ja.html" rel="alternate" type="text/html" title="大分県農林水産研究指導センターとの共同研究がスタート" /><published>2021-07-10T00:00:00+09:00</published><updated>2021-07-10T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/2021/07/10/AgriCollaboration.ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021/07/10/AgriCollaboration.ja.html"><![CDATA[<p>大分県農林水産研究指導センターと本研究室の間で共同研究がスタートしました！</p>
+&lt;p&gt;共同研究を通じて，地域の活性化へ貢献していきます．&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">昨年度に引き続き，大分県農林水産研究指導センターと本研究室の間で2件の共同研究がスタートしました！</summary></entry><entry xml:lang="ja"><title type="html">新メンバー</title><link href="https://yinoue102.github.io/yinoue102.github/2022/04/08/New-Member.ja.html" rel="alternate" type="text/html" title="新メンバー" /><published>2022-04-08T00:00:00+09:00</published><updated>2022-04-08T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/04/08/New-Member.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/04/08/New-Member.ja.html">&lt;p&gt;今年度から新メンバーとして以下の人たちが井上研究室に所属しました！&lt;/p&gt;
 
-<ul>
-  <li>マルチコプターを活用した白ねぎ等露地野菜の生育診断技術の開発</li>
-</ul>
+&lt;ul&gt;
+  &lt;li&gt;専攻科1年
+    &lt;ul&gt;
+      &lt;li&gt;阿部　光希&lt;/li&gt;
+      &lt;li&gt;小野　竜也&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;本科5年生
+    &lt;ul&gt;
+      &lt;li&gt;安藤　拓翔&lt;/li&gt;
+      &lt;li&gt;松下　晴南&lt;/li&gt;
+      &lt;li&gt;三重野　海吏&lt;/li&gt;
+      &lt;li&gt;森下　詠心&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-<p>共同研究を通じて，地域の活性化へ貢献していきます．</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[大分県農林水産研究指導センターと本研究室の間で共同研究がスタートしました！]]></summary></entry><entry xml:lang="ja"><title type="html">大分高専・有明高専の顔合わせを実施(オンライン)</title><link href="http://localhost:4000/yinoue102.github/2021-07-05-ICLabFirstMeeting/" rel="alternate" type="text/html" title="大分高専・有明高専の顔合わせを実施(オンライン)" /><published>2021-07-05T00:00:00+09:00</published><updated>2021-07-05T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/ICLabFirstMeeting.ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021-07-05-ICLabFirstMeeting/"><![CDATA[<p>有明高専のICLab.メンバーと顔合わせを行いました．
-<img src="/yinoue102.github/img/posts/2021/07/351.jpg" alt="2021Meeting" /></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[有明高専のICLab.メンバーと顔合わせを行いました．]]></summary></entry><entry xml:lang="ja"><title type="html">新メンバー</title><link href="http://localhost:4000/yinoue102.github/2021-04-09-New-Member/" rel="alternate" type="text/html" title="新メンバー" /><published>2021-04-09T00:00:00+09:00</published><updated>2021-04-09T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/New-Member-ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021-04-09-New-Member/"><![CDATA[<p>今年度から新メンバーとして以下の人たちが井上研究室に所属しました！</p>
-<ul>
-  <li>専攻科1年
-    <ul>
-      <li>植野　優磨    　</li>
-    </ul>
-  </li>
-  <li>本科5年生
-    <ul>
-      <li>阿部　光希</li>
-      <li>小野　竜也</li>
-      <li>尾林　慶亮</li>
-      <li>廣瀬　花菜子</li>
-      <li>宮﨑　陸翔</li>
-    </ul>
-  </li>
-</ul>
+&lt;p&gt;皆さんの活躍を期待しています(^^)&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">今年度から新メンバーとして以下の人たちが井上研究室に所属しました！</summary></entry><entry xml:lang="ja"><title type="html">2021年度卒業研究発表会</title><link href="https://yinoue102.github.io/yinoue102.github/2022/01/25/Graduation-Rsearch.ja.html" rel="alternate" type="text/html" title="2021年度卒業研究発表会" /><published>2022-01-25T00:00:00+09:00</published><updated>2022-01-25T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/01/25/Graduation-Rsearch.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/01/25/Graduation-Rsearch.ja.html">&lt;p&gt;2021年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました．
+各テーマは次の通りです．&lt;/p&gt;
 
-<p>皆さんの活躍を期待しています(^^)</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[今年度から新メンバーとして以下の人たちが井上研究室に所属しました！ 専攻科1年 植野　優磨 　 本科5年生 阿部　光希 小野　竜也 尾林　慶亮 廣瀬　花菜子 宮﨑　陸翔]]></summary></entry><entry xml:lang="ja"><title type="html">2020年度卒業研究発表会</title><link href="http://localhost:4000/yinoue102.github/2021/01/26/Graduation-Rsearch.ja.html" rel="alternate" type="text/html" title="2020年度卒業研究発表会" /><published>2021-01-26T00:00:00+09:00</published><updated>2021-01-26T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/2021/01/26/Graduation-Rsearch.ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2021/01/26/Graduation-Rsearch.ja.html"><![CDATA[<p>2020年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました．
-各テーマは次の通りです．</p>
+&lt;ul&gt;
+  &lt;li&gt;阿部　光希
+    &lt;ul&gt;
+      &lt;li&gt;フリック入力に基づいたXRのためのUI&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;小野 竜也
+    &lt;ul&gt;
+      &lt;li&gt;推しカメラの自動撮影に向けた人物追跡手法の検討&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;尾林 慶亮
+    &lt;ul&gt;
+      &lt;li&gt;XRデバイスを用いた農業従事者へ向けたUIの検討&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;廣瀬 花菜子
+    &lt;ul&gt;
+      &lt;li&gt;擬似NDVI画像を用いた農作物の生育状況確認ツールの開発&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;宮崎 陸翔
+    &lt;ul&gt;
+      &lt;li&gt;自由手書き文字認識における画像補正の有効性検証&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">2021年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．</summary></entry><entry xml:lang="ja"><title type="html">月刊高専にICLab.のインタビュー記事が掲載</title><link href="https://yinoue102.github.io/yinoue102.github/2021/07/26/GekkanKosen.ja.html" rel="alternate" type="text/html" title="月刊高専にICLab.のインタビュー記事が掲載" /><published>2021-07-26T00:00:00+09:00</published><updated>2021-07-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/07/26/GekkanKosen.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/07/26/GekkanKosen.ja.html">&lt;p&gt;メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました．&lt;/p&gt;
 
-<ul>
-  <li>石井 俊平
-    <ul>
-      <li>カード認識を用いた動画配信補助システム</li>
-    </ul>
-  </li>
-  <li>緒方 聖七
-    <ul>
-      <li>Convolutional Neural Network を用いた果実の熟度判定</li>
-    </ul>
-  </li>
-  <li>小野 和志　
-    <ul>
-      <li>OCR を用いた採点自動化システムの検討</li>
-    </ul>
-  </li>
-  <li>鹿野 陽人
-    <ul>
-      <li>機械翻訳を用いた話の流れが自然な対話システムの検討</li>
-    </ul>
-  </li>
-  <li>橋本 燎
-    <ul>
-      <li>囲碁における碁石識別システムの検討</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[2020年度卒業研究発表会を行いました．1年間の研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．]]></summary></entry><entry xml:lang="ja"><title type="html">ラボツアー発表</title><link href="http://localhost:4000/yinoue102.github/2020-10-07-Lab-Tour/" rel="alternate" type="text/html" title="ラボツアー発表" /><published>2020-10-07T00:00:00+09:00</published><updated>2020-10-07T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/Lab-Tour-ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2020-10-07-Lab-Tour/"><![CDATA[<p>大分県内の企業から見学者がラボツアーとして来訪され，本研究室に所属する本科5年生が各々の研究について発表を行いました．</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[大分県内の企業から見学者がラボツアーとして来訪され，本研究室に所属する本科5年生が各々の研究について発表を行いました．]]></summary></entry><entry xml:lang="ja"><title type="html">新メンバー</title><link href="http://localhost:4000/yinoue102.github/2020-06-11-New-Member/" rel="alternate" type="text/html" title="新メンバー" /><published>2020-06-11T00:00:00+09:00</published><updated>2020-06-11T00:00:00+09:00</updated><id>http://localhost:4000/yinoue102.github/New-Member-ja</id><content type="html" xml:base="http://localhost:4000/yinoue102.github/2020-06-11-New-Member/"><![CDATA[<p>今年度から新メンバーとして，</p>
-<ul>
-  <li>石井　俊平　くん</li>
-  <li>緒方　聖七　くん</li>
-  <li>小野　和志　くん</li>
-  <li>鹿野　陽人　くん</li>
-  <li>橋本　燎　　くん</li>
-</ul>
+&lt;p&gt;ICLab.に集う「博士と天才」、地域産業の発展を目指して&lt;br /&gt;
+&lt;a href=&quot;https://gekkan-kosen.com/2528/&quot;&gt;前編&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://gekkan-kosen.com/2561/&quot;&gt;後編&lt;/a&gt;&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました． ICLab.に集う「博士と天才」、地域産業の発展を目指して 前編 後編</summary></entry><entry xml:lang="ja"><title type="html">大分県農林水産研究指導センターとの共同研究がスタート</title><link href="https://yinoue102.github.io/yinoue102.github/2021/07/10/AgriCollaboration.ja.html" rel="alternate" type="text/html" title="大分県農林水産研究指導センターとの共同研究がスタート" /><published>2021-07-10T00:00:00+09:00</published><updated>2021-07-10T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/07/10/AgriCollaboration.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/07/10/AgriCollaboration.ja.html">&lt;p&gt;大分県農林水産研究指導センターと本研究室の間で共同研究がスタートしました！&lt;/p&gt;
 
-<p>が井上研究室に所属しました！
-皆さんの活躍を期待しています(^^)</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[今年度から新メンバーとして， 石井　俊平　くん 緒方　聖七　くん 小野　和志　くん 鹿野　陽人　くん 橋本　燎　　くん]]></summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;マルチコプターを活用した白ねぎ等露地野菜の生育診断技術の開発&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;共同研究を通じて，地域の活性化へ貢献していきます．&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">大分県農林水産研究指導センターと本研究室の間で共同研究がスタートしました！</summary></entry><entry xml:lang="ja"><title type="html">大分高専・有明高専の顔合わせを実施(オンライン)</title><link href="https://yinoue102.github.io/yinoue102.github/2021/07/05/ICLabFirstMeeting.ja.html" rel="alternate" type="text/html" title="大分高専・有明高専の顔合わせを実施(オンライン)" /><published>2021-07-05T00:00:00+09:00</published><updated>2021-07-05T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/07/05/ICLabFirstMeeting.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/07/05/ICLabFirstMeeting.ja.html">&lt;p&gt;有明高専のICLab.メンバーと顔合わせを行いました．
+&lt;img src=&quot;/yinoue102.github/img/posts/2021/07/351.jpg&quot; alt=&quot;2021Meeting&quot; /&gt;&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">有明高専のICLab.メンバーと顔合わせを行いました．</summary></entry><entry xml:lang="ja"><title type="html">新メンバー</title><link href="https://yinoue102.github.io/yinoue102.github/2021/04/09/New-Member.ja.html" rel="alternate" type="text/html" title="新メンバー" /><published>2021-04-09T00:00:00+09:00</published><updated>2021-04-09T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/04/09/New-Member.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/04/09/New-Member.ja.html">&lt;p&gt;今年度から新メンバーとして以下の人たちが井上研究室に所属しました！&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;専攻科1年
+    &lt;ul&gt;
+      &lt;li&gt;植野　優磨    　&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;本科5年生
+    &lt;ul&gt;
+      &lt;li&gt;阿部　光希&lt;/li&gt;
+      &lt;li&gt;小野　竜也&lt;/li&gt;
+      &lt;li&gt;尾林　慶亮&lt;/li&gt;
+      &lt;li&gt;廣瀬　花菜子&lt;/li&gt;
+      &lt;li&gt;宮﨑　陸翔&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;皆さんの活躍を期待しています(^^)&lt;/p&gt;</content><author><name>INOUE Yusuke</name></author><summary type="html">今年度から新メンバーとして以下の人たちが井上研究室に所属しました！ 専攻科1年 植野　優磨 　 本科5年生 阿部　光希 小野　竜也 尾林　慶亮 廣瀬　花菜子 宮﨑　陸翔</summary></entry></feed>
