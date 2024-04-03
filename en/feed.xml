@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/en/" rel="alternate" type="text/html" /><updated>2024-02-16T14:34:30+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">Studnet Presentation@Kyushu Section, IEICE</title><link href="https://yinoue102.github.io/yinoue102.github/en/2023/09/06/IEICE-Student-Presentation.en.html" rel="alternate" type="text/html" title="Studnet Presentation@Kyushu Section, IEICE" /><published>2023-09-06T00:00:00+09:00</published><updated>2023-09-06T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2023/09/06/IEICE-Student-Presentation.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2023/09/06/IEICE-Student-Presentation.en.html"><![CDATA[<p>Our lab students gave presentation at Kyushu Section, IEICE.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/en/" rel="alternate" type="text/html" /><updated>2024-04-03T15:40:07+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">Research Presentation@SASIMI2024</title><link href="https://yinoue102.github.io/yinoue102.github/en/2024/03/11/SASIMI2024.en.html" rel="alternate" type="text/html" title="Research Presentation@SASIMI2024" /><published>2024-03-11T00:00:00+09:00</published><updated>2024-03-11T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/03/11/SASIMI2024.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/03/11/SASIMI2024.en.html"><![CDATA[<p>A paper submitted by our lab student was accepted and presented at SASIMI2024 in Taipei, Taiwan.</p>
+
+<ol>
+  <li><u>Takuto ANDO</u>, Yusuke INOUE, “FPGA Implementation of a DPU-Based Facial Expression Recognition System,” The 25th Workshop on Synthesis And System Integration of Mixed Information technologies, Taipei, Taiwan, Mar, 2024.</li>
+</ol>
+
+<p><img src="/yinoue102.github/img/posts/2024/03/SASIMI2024_Presen.jpg" alt="SASIMI2024_Presen" />
+<img src="/yinoue102.github/img/posts/2024/03/SASIMI2024_Poster.jpg" alt="SASIMI2024_Poster" /></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[A paper submitted by our lab student was accepted and presented at SASIMI2024 in Taipei, Taiwan.]]></summary></entry><entry xml:lang="en"><title type="html">Graduation Research Presentation (2023)</title><link href="https://yinoue102.github.io/yinoue102.github/en/2024/01/23/Graduation-Research.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2023)" /><published>2024-01-23T00:00:00+09:00</published><updated>2024-01-23T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/01/23/Graduation-Research.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/01/23/Graduation-Research.en.html"><![CDATA[<p>Inoue Lab. students present Graduation Research about each following theme.</p>
+
+<h2 id="advanced-cource-students">Advanced Cource Students</h2>
+
+<ul>
+  <li>ABE Koki
+    <ul>
+      <li>Proteus Effect of School Uniform Avatars in VR Space</li>
+    </ul>
+  </li>
+  <li>ONO Tatsuya
+    <ul>
+      <li>Detection of Leaf Branching on Leek Leaves Using YOLOX</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="5th-year-studens">5th Year Studens</h2>
+
+<ul>
+  <li>Oka Naoki
+    <ul>
+      <li>Effectiveness of DPU in Segmentation for Autonomous Driving</li>
+    </ul>
+  </li>
+  <li>Shono Jun
+    <ul>
+      <li>Evaluation of YOLOv8 Model Performance and Shape Information in Locating Small Green Onion Branch</li>
+    </ul>
+  </li>
+  <li>Hida Yusei
+    <ul>
+      <li>Visualization of citrus tanning in 3D virtual space</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[Inoue Lab. students present Graduation Research about each following theme.]]></summary></entry><entry xml:lang="en"><title type="html">Studnet Presentation@Kyushu Section, IEICE</title><link href="https://yinoue102.github.io/yinoue102.github/en/2023/09/06/IEICE-Student-Presentation.en.html" rel="alternate" type="text/html" title="Studnet Presentation@Kyushu Section, IEICE" /><published>2023-09-06T00:00:00+09:00</published><updated>2023-09-06T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2023/09/06/IEICE-Student-Presentation.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2023/09/06/IEICE-Student-Presentation.en.html"><![CDATA[<p>Our lab students gave presentation at Kyushu Section, IEICE.</p>
 
 <ol>
   <li><u>小野竜也</u>, 井上優良, “YOLOX を用いた白ねぎの葉の分岐部検出”, 2023年度（第31回）電子情報通信学会九州支部学生会講演会, D-22 Sep, 2023年</li>
@@ -84,36 +126,4 @@
   </li>
 </ul>
 
-<p>Welcome to our Lab.!</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[New members joined Inoue Lab.]]></summary></entry><entry xml:lang="en"><title type="html">Graduation Research Presentation (2021)</title><link href="https://yinoue102.github.io/yinoue102.github/en/2022/01/25/Graduation-Rsearch.en.html" rel="alternate" type="text/html" title="Graduation Research Presentation (2021)" /><published>2022-01-25T00:00:00+09:00</published><updated>2022-01-25T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/01/25/Graduation-Rsearch.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/01/25/Graduation-Rsearch.en.html"><![CDATA[<p>Inoue Lab. students present Graduation Research about each following theme.</p>
-
-<ul>
-  <li>ABE Koki
-    <ul>
-      <li>UI for XR Based on Flick Input</li>
-    </ul>
-  </li>
-  <li>ONO Tatsuya
-    <ul>
-      <li>A Person Tracking Method for Automated Shooting of Fancam</li>
-    </ul>
-  </li>
-  <li>OBAYASHI Kyosuke
-    <ul>
-      <li>An XR User Interface for Agricultural Workers</li>
-    </ul>
-  </li>
-  <li>HIROSE Kanako
-    <ul>
-      <li>Crop Growth Analysis Tool by Using Pseudo NDVI Images machine translation</li>
-    </ul>
-  </li>
-  <li>MIYAZAKI Rikuto
-    <ul>
-      <li>Validating of Image Correction in Handwritten Character Recognition</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[Inoue Lab. students present Graduation Research about each following theme.]]></summary></entry><entry xml:lang="ja"><title type="html">月刊高専にICLab.のインタビュー記事が掲載</title><link href="https://yinoue102.github.io/yinoue102.github/en/2021/07/26/GekkanKosen.ja.html" rel="alternate" type="text/html" title="月刊高専にICLab.のインタビュー記事が掲載" /><published>2021-07-26T00:00:00+09:00</published><updated>2021-07-26T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2021/07/26/GekkanKosen.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2021/07/26/GekkanKosen.ja.html"><![CDATA[<p>メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました．</p>
-
-<p>ICLab.に集う「博士と天才」、地域産業の発展を目指して<br />
-<a href="https://gekkan-kosen.com/2528/">前編</a><br />
-<a href="https://gekkan-kosen.com/2561/">後編</a></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[メディア総研株式会社が運営する月刊高専にICLab.の活動についてのインタビュー記事が掲載されました． ICLab.に集う「博士と天才」、地域産業の発展を目指して 前編 後編]]></summary></entry></feed>
+<p>Welcome to our Lab.!</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[New members joined Inoue Lab.]]></summary></entry></feed>
