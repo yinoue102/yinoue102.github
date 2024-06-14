@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/en/" rel="alternate" type="text/html" /><updated>2024-04-03T15:40:07+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">Research Presentation@SASIMI2024</title><link href="https://yinoue102.github.io/yinoue102.github/en/2024/03/11/SASIMI2024.en.html" rel="alternate" type="text/html" title="Research Presentation@SASIMI2024" /><published>2024-03-11T00:00:00+09:00</published><updated>2024-03-11T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/03/11/SASIMI2024.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/03/11/SASIMI2024.en.html"><![CDATA[<p>A paper submitted by our lab student was accepted and presented at SASIMI2024 in Taipei, Taiwan.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/en/" rel="alternate" type="text/html" /><updated>2024-06-14T14:14:53+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="en"><title type="html">Research Presentation@HotSPA2024</title><link href="https://yinoue102.github.io/yinoue102.github/en/2024/06/10/HotSPA2024.en.html" rel="alternate" type="text/html" title="Research Presentation@HotSPA2024" /><published>2024-06-10T00:00:00+09:00</published><updated>2024-06-10T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/06/10/HotSPA2024.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/06/10/HotSPA2024.en.html"><![CDATA[<p>Our Lab. Student presented at HotSPA2024 in Fuefuki, Yamanashi.</p>
+
+<ol>
+  <li><u>ANDO Takuto</u>, INOUE Yusuke, “Implementation of a Facial Expression Recognition System Using DPU on FPGA,” 2024-ARC-257(22), Jun., 2024.</li>
+</ol>
+
+<p><img src="/yinoue102.github/img/posts/2024/06/HotSPA2024Presen.jpg" alt="HotSPA2024_Presen" /></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[Our Lab. Student presented at HotSPA2024 in Fuefuki, Yamanashi.]]></summary></entry><entry xml:lang="en"><title type="html">New Member</title><link href="https://yinoue102.github.io/yinoue102.github/en/2024/04/12/New-Member.en.html" rel="alternate" type="text/html" title="New Member" /><published>2024-04-12T00:00:00+09:00</published><updated>2024-04-12T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/04/12/New-Member.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/04/12/New-Member.en.html"><![CDATA[<p>New members joined Inoue Lab.</p>
+
+<ul>
+  <li>Advanced Cource Studens
+    <ul>
+      <li>OKA Naoki</li>
+      <li>SHONO Jun</li>
+    </ul>
+  </li>
+  <li>5th Year Students
+    <ul>
+      <li>KISHIDA Koga</li>
+      <li>SAKAMOTO Tokino</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Welcome to our Lab.!</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[New members joined Inoue Lab.]]></summary></entry><entry xml:lang="en"><title type="html">Research Presentation@SASIMI2024</title><link href="https://yinoue102.github.io/yinoue102.github/en/2024/03/11/SASIMI2024.en.html" rel="alternate" type="text/html" title="Research Presentation@SASIMI2024" /><published>2024-03-11T00:00:00+09:00</published><updated>2024-03-11T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/03/11/SASIMI2024.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/03/11/SASIMI2024.en.html"><![CDATA[<p>A paper submitted by our lab student was accepted and presented at SASIMI2024 in Taipei, Taiwan.</p>
 
 <ol>
   <li><u>Takuto ANDO</u>, Yusuke INOUE, “FPGA Implementation of a DPU-Based Facial Expression Recognition System,” The 25th Workshop on Synthesis And System Integration of Mixed Information technologies, Taipei, Taiwan, Mar, 2024.</li>
@@ -107,23 +130,4 @@
   <li><u>松下 晴南</u>, 井上 優良, “LRFを用いた粒子フィルタにおける線分交差判定のGPU実装による高速化”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-02, Sep, 2022.</li>
   <li><u>植野 優磨</u>, 井上 優良, “GANによるマスク無し顔画像生成の検討”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-34, Sep, 2022.</li>
   <li><u>廣瀬 花菜子</u>, 井上 優良, 嶋田 浩和, “ほ場画像セグメンテーションのための色空間の検討”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-39, Sep, 2022.</li>
-</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[Our lab students gave online presentation at Kyushu Section, IEICE.]]></summary></entry><entry xml:lang="en"><title type="html">Start on Collaboration with Oita Prefecture</title><link href="https://yinoue102.github.io/yinoue102.github/en/2022/05/20/AgriCollaboration.en.html" rel="alternate" type="text/html" title="Start on Collaboration with Oita Prefecture" /><published>2022-05-20T00:00:00+09:00</published><updated>2022-05-20T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/05/20/AgriCollaboration.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/05/20/AgriCollaboration.en.html"><![CDATA[<p>We have started on two collaborations with Oita Prefecture.</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[We have started on two collaborations with Oita Prefecture.]]></summary></entry><entry xml:lang="en"><title type="html">New Member</title><link href="https://yinoue102.github.io/yinoue102.github/en/2022/04/08/New-Member.en.html" rel="alternate" type="text/html" title="New Member" /><published>2022-04-08T00:00:00+09:00</published><updated>2022-04-08T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/04/08/New-Member.en</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/04/08/New-Member.en.html"><![CDATA[<p>New members joined Inoue Lab.</p>
-
-<ul>
-  <li>Advanced Cource Studens
-    <ul>
-      <li>ABE Koki</li>
-      <li>ONO Tatsuya</li>
-    </ul>
-  </li>
-  <li>5th Year Students
-    <ul>
-      <li>ANDO Takuto</li>
-      <li>MATSUSHITA Sena</li>
-      <li>MIENO Kairi</li>
-      <li>MORISHITA Eishin</li>
-    </ul>
-  </li>
-</ul>
-
-<p>Welcome to our Lab.!</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[New members joined Inoue Lab.]]></summary></entry></feed>
+</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[Our lab students gave online presentation at Kyushu Section, IEICE.]]></summary></entry></feed>
