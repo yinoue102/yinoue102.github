@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/" rel="alternate" type="text/html" /><updated>2024-06-14T14:14:52+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">研究発表@HotSPA2024 in 山梨県笛吹市</title><link href="https://yinoue102.github.io/yinoue102.github/2024/06/10/HotSPA2024.ja.html" rel="alternate" type="text/html" title="研究発表@HotSPA2024 in 山梨県笛吹市" /><published>2024-06-10T00:00:00+09:00</published><updated>2024-06-10T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/06/10/HotSPA2024.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/06/10/HotSPA2024.ja.html"><![CDATA[<p>井上研の学生が石和びゅーホテル@山梨県笛吹市で開催されたHotSPA2024にて研究発表を行いました．
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/" rel="alternate" type="text/html" /><updated>2024-10-10T19:08:38+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">学生発表@第32回電子情報通信会九州支部学生会講演会</title><link href="https://yinoue102.github.io/yinoue102.github/2024/09/25/IEICE-Student-Presentation.ja.html" rel="alternate" type="text/html" title="学生発表@第32回電子情報通信会九州支部学生会講演会" /><published>2024-09-25T00:00:00+09:00</published><updated>2024-09-25T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/09/25/IEICE-Student-Presentation.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/09/25/IEICE-Student-Presentation.ja.html"><![CDATA[<p>井上研の学生が鹿児島大学で開催された電子情報通信学会九州支部学生会講演会にて発表を行いました．
+日頃の成果をまとめ，多くの質疑応答を受けることができました．</p>
+
+<ol>
+  <li><u>岡直輝</u>, 井上優良, “VRを活用した苦手な食品克服を目指すシステムの検討”, 2024年度（第32回）電子情報通信学会九州支部学生会講演会, A-09 Sep, 2024年</li>
+  <li><u>安藤拓翔</u>, 井上優良, “小ねぎ調製位置検出のためのインスタンスセグメンテーション”, 2024年度（第32回）電子情報通信学会九州支部学生会講演会, D-27, Sep, 2024年</li>
+  <li><u>岸田航河</u>, 井上優良, “話者識別のFPGA実装に向けた検討”, 2024年度（第32回）電子情報通信学会九州支部学生会講演会, D-32 Sep, 2024年</li>
+  <li><u>坂本勅乃</u>, 井上優良, “MRデバイスを用いた農作業者向けインタフェースの開発”, 2024年度（第32回）電子情報通信学会九州支部学生会講演会, D-53 Sep, 2024年</li>
+  <li><u>森下 詠心</u>, 井上優良, “動く錯視による重量感の提示”, 2024年度（第32回）電子情報通信学会九州支部学生会講演会, D-60 Sep, 2024年</li>
+</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生が鹿児島大学で開催された電子情報通信学会九州支部学生会講演会にて発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．]]></summary></entry><entry xml:lang="ja"><title type="html">研究論文誌　農業情報研究に論文が掲載</title><link href="https://yinoue102.github.io/yinoue102.github/2024/07/01/AgriInfoPaper2024.ja.html" rel="alternate" type="text/html" title="研究論文誌　農業情報研究に論文が掲載" /><published>2024-07-01T00:00:00+09:00</published><updated>2024-07-01T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/07/01/AgriInfoPaper2024.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/07/01/AgriInfoPaper2024.ja.html"><![CDATA[<p>当研究室の学生を筆頭著者とした共著の査読付き原著論文が学会誌「農業情報研究」に掲載されました．</p>
+
+<ol>
+  <li>安藤 拓翔, <u>井上 優良</u>, “エッジデバイス上におけるリアルタイム小ねぎ分岐部位置検出, “農業情報研究, 2024, 33 巻, 2 号, p. 73-80”, 2024年7月</li>
+</ol>
+
+<p><a href="https://www.jstage.jst.go.jp/article/air/33/2/33_73/_article/-char/ja">農業情報学会　学会誌　農業情報研究 - エッジデバイス上におけるリアルタイム小ねぎ分岐部位置検出</a></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[当研究室の学生を筆頭著者とした共著の査読付き原著論文が学会誌「農業情報研究」に掲載されました．]]></summary></entry><entry xml:lang="ja"><title type="html">研究発表@HotSPA2024 in 山梨県笛吹市</title><link href="https://yinoue102.github.io/yinoue102.github/2024/06/10/HotSPA2024.ja.html" rel="alternate" type="text/html" title="研究発表@HotSPA2024 in 山梨県笛吹市" /><published>2024-06-10T00:00:00+09:00</published><updated>2024-06-10T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/06/10/HotSPA2024.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/06/10/HotSPA2024.ja.html"><![CDATA[<p>井上研の学生が石和びゅーホテル@山梨県笛吹市で開催されたHotSPA2024にて研究発表を行いました．
 日頃の成果をまとめ，多くの質疑応答を受けることができました．</p>
 
 <ol>
@@ -130,16 +145,4 @@
 
 <ol>
   <li><u>安藤 拓翔</u>, 井上 優良, “エッジ検出を用いたこねぎ分岐部の検出”，情報処理学会第243回 システム・アーキテクチャ研究発表会，Vol.2023-ARC-251，No.4，Jan，10,2023.</li>
-</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生がオンラインで開催された情報処理学会システム・アーキテクチャ研究発表会にて発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．]]></summary></entry><entry xml:lang="ja"><title type="html">大分県との受託研究がスタート</title><link href="https://yinoue102.github.io/yinoue102.github/2022/12/01/AgriConsignment.ja.html" rel="alternate" type="text/html" title="大分県との受託研究がスタート" /><published>2022-12-01T00:00:00+09:00</published><updated>2022-12-01T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/12/01/AgriConsignment.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/12/01/AgriConsignment.ja.html"><![CDATA[<p>大分県から以下の研究を受託しました！</p>
-<ul>
-  <li>調製作業効率化に向けた、画像からねぎの分岐部を認識する手法の研究</li>
-</ul>
-
-<p>受託研究を通じて，地域の活性化へ貢献していきます．</p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[大分県から以下の研究を受託しました！ 調製作業効率化に向けた、画像からねぎの分岐部を認識する手法の研究]]></summary></entry><entry xml:lang="ja"><title type="html">学生発表@電子情報通信会九州支部学生会講演会 in オンライン</title><link href="https://yinoue102.github.io/yinoue102.github/2022/09/23/IEICE-Student-Presentation.ja.html" rel="alternate" type="text/html" title="学生発表@電子情報通信会九州支部学生会講演会 in オンライン" /><published>2022-09-23T00:00:00+09:00</published><updated>2022-09-23T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2022/09/23/IEICE-Student-Presentation.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2022/09/23/IEICE-Student-Presentation.ja.html"><![CDATA[<p>井上研の学生と卒業生がオンラインで開催された電子情報通信学会九州支部学生会講演会にて発表を行いました．
-日頃の成果をまとめ，多くの質疑応答を受けることができました．</p>
-
-<ol>
-  <li><u>松下 晴南</u>, 井上 優良, “LRFを用いた粒子フィルタにおける線分交差判定のGPU実装による高速化”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-02, Sep, 2022.</li>
-  <li><u>植野 優磨</u>, 井上 優良, “GANによるマスク無し顔画像生成の検討”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-34, Sep, 2022.</li>
-  <li><u>廣瀬 花菜子</u>, 井上 優良, 嶋田 浩和, “ほ場画像セグメンテーションのための色空間の検討”, 2022年度（第30回）電子情報通信会九州支部学生会講演会, D-39, Sep, 2022.</li>
-</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生と卒業生がオンラインで開催された電子情報通信学会九州支部学生会講演会にて発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．]]></summary></entry></feed>
+</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生がオンラインで開催された情報処理学会システム・アーキテクチャ研究発表会にて発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．]]></summary></entry></feed>
