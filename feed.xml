@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/" rel="alternate" type="text/html" /><updated>2025-03-28T17:11:31+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">学生発表@情報処理学会第87回全国大会</title><link href="https://yinoue102.github.io/yinoue102.github/2025/03/13/IPSJ-NationalConvention.ja.html" rel="alternate" type="text/html" title="学生発表@情報処理学会第87回全国大会" /><published>2025-03-13T00:00:00+09:00</published><updated>2025-03-13T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2025/03/13/IPSJ-NationalConvention.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2025/03/13/IPSJ-NationalConvention.ja.html"><![CDATA[<p>井上研の学生が立命館大学いばらきキャンパスで開催された情報処理学会第87回全国大会にて発表を行いました．
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yinoue102.github.io/yinoue102.github/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinoue102.github.io/yinoue102.github/" rel="alternate" type="text/html" /><updated>2026-04-04T07:42:52+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/feed.xml</id><title type="html">INOUE Yusuke Lab.</title><subtitle>Welcome to our Lab.</subtitle><author><name>INOUE Yusuke</name></author><entry xml:lang="ja"><title type="html">学生発表@2026年電子情報通信学会総合大会</title><link href="https://yinoue102.github.io/yinoue102.github/2026/03/16/IEICE-GeneralConference.ja.html" rel="alternate" type="text/html" title="学生発表@2026年電子情報通信学会総合大会" /><published>2026-03-16T00:00:00+09:00</published><updated>2026-03-16T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2026/03/16/IEICE-GeneralConference.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2026/03/16/IEICE-GeneralConference.ja.html"><![CDATA[<p>井上研の学生および教員が電子情報通信学会総合大会にて発表を行いました．
+日頃の成果をまとめ，多くのフィードバックを得ることができました．</p>
+
+<ol>
+  <li><u>河野雄大</u>, 井上優良, “XR における2 段階ピンチによる入力手法の提案及び評価”, 2026年 電子情報通信学会総合大会, H-2-14, Mar, 2026年</li>
+  <li><u>猪俣秀真</u>, 井上優良, “YOLO11 と深度画像を用いたピーマン検出モデルの精度向上”, 2026年 電子情報通信学会総合大会, D-12-60, Mar, 2026年</li>
+  <li><u>井上 優良</u>, “DX人材育成のためのローコードアプリ開発 教育プログラムの構築と実践”, 2026年 電子情報通信学会総合大会, D-15-14, Mar, 2026年</li>
+</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生および教員が電子情報通信学会総合大会にて発表を行いました． 日頃の成果をまとめ，多くのフィードバックを得ることができました．]]></summary></entry><entry xml:lang="ja"><title type="html">学生発表@第33回電子情報通信会九州支部学生会講演会</title><link href="https://yinoue102.github.io/yinoue102.github/2025/09/18/IEICE-Kyushu-Student-Conference.ja.html" rel="alternate" type="text/html" title="学生発表@第33回電子情報通信会九州支部学生会講演会" /><published>2025-09-18T00:00:00+09:00</published><updated>2025-09-18T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2025/09/18/IEICE-Kyushu-Student-Conference.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2025/09/18/IEICE-Kyushu-Student-Conference.ja.html"><![CDATA[<p>井上研の学生が電子情報通信学会九州支部学生会講演会にて発表を行いました．
+日頃の成果をまとめ，多くの質疑応答を受けることができました．</p>
+
+<ol>
+  <li><u>岡直輝</u>, 井上優良, “VR環境でのGANを活用した食品視覚変換による嗜好改善手法の検討”, 2025年度（第33回）電子情報通信会九州支部学生会講演会, D-56, Sep, 2025年</li>
+  <li><u>生野潤</u>, 井上優良, “VRSを用いた中心窩レンダリング最適化手法の検討”, 2025年度（第33回）電子情報通信会九州支部学生会講演会, D-57, Sep, 2025年</li>
+</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生が電子情報通信学会九州支部学生会講演会にて発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．]]></summary></entry><entry xml:lang="ja"><title type="html">学生発表@情報処理学会第87回全国大会</title><link href="https://yinoue102.github.io/yinoue102.github/2025/03/13/IPSJ-NationalConvention.ja.html" rel="alternate" type="text/html" title="学生発表@情報処理学会第87回全国大会" /><published>2025-03-13T00:00:00+09:00</published><updated>2025-03-13T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2025/03/13/IPSJ-NationalConvention.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2025/03/13/IPSJ-NationalConvention.ja.html"><![CDATA[<p>井上研の学生が立命館大学いばらきキャンパスで開催された情報処理学会第87回全国大会にて発表を行いました．
 日頃の成果をまとめ，多くの質疑応答を受けることができました．</p>
 
 <ol>
@@ -93,47 +106,4 @@
 </ol>
 
 <p><img src="/yinoue102.github/img/posts/2024/03/SASIMI2024_Presen.jpg" alt="SASIMI2024_Presen" />
-<img src="/yinoue102.github/img/posts/2024/03/SASIMI2024_Poster.jpg" alt="SASIMI2024_Poster" /></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生が台湾で開催されたSASIMI2024に投稿した論文が採択され，発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．]]></summary></entry><entry xml:lang="ja"><title type="html">2023年度卒業研究,特別研究発表</title><link href="https://yinoue102.github.io/yinoue102.github/2024/01/23/Graduation-Research.ja.html" rel="alternate" type="text/html" title="2023年度卒業研究,特別研究発表" /><published>2024-01-23T00:00:00+09:00</published><updated>2024-01-23T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2024/01/23/Graduation-Research.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2024/01/23/Graduation-Research.ja.html"><![CDATA[<p>2023年度卒業研究，特別研究の発表を行いました．研究を一つの論文にまとめあげ，発表しました．
-各テーマは次の通りです．</p>
-
-<h2 id="専攻科-特別研究">専攻科 特別研究</h2>
-
-<ul>
-  <li>阿部 光希
-    <ul>
-      <li>VR空間上の学生服アバターにおけるプロテウス効果</li>
-    </ul>
-  </li>
-  <li>小野 竜也
-    <ul>
-      <li>YOLOXを用いた白ねぎの葉の分岐部検出</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="本科卒業研究">本科　卒業研究</h2>
-
-<ul>
-  <li>岡 直輝
-    <ul>
-      <li>自動運転に向けたセグメンテーションに対するDPUの有効性検証</li>
-    </ul>
-  </li>
-  <li>生野 潤
-    <ul>
-      <li>小ねぎ分岐部位置検出におけるYOLOv8モデル性能と形状情報の評価</li>
-    </ul>
-  </li>
-  <li>飛田 祐聖
-    <ul>
-      <li>3次元仮想空間における柑橘の日焼け可視化</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[2023年度卒業研究，特別研究の発表を行いました．研究を一つの論文にまとめあげ，発表しました． 各テーマは次の通りです．]]></summary></entry><entry xml:lang="ja"><title type="html">学生発表@第31回電子情報通信会九州支部学生会講演会</title><link href="https://yinoue102.github.io/yinoue102.github/2023/09/06/IEICE-Student-Presentation.ja.html" rel="alternate" type="text/html" title="学生発表@第31回電子情報通信会九州支部学生会講演会" /><published>2023-09-06T00:00:00+09:00</published><updated>2023-09-06T00:00:00+09:00</updated><id>https://yinoue102.github.io/yinoue102.github/2023/09/06/IEICE-Student-Presentation.ja</id><content type="html" xml:base="https://yinoue102.github.io/yinoue102.github/2023/09/06/IEICE-Student-Presentation.ja.html"><![CDATA[<p>井上研の学生が崇城大学で開催された電子情報通信学会九州支部学生会講演会にて発表を行いました．
-日頃の成果をまとめ，多くの質疑応答を受けることができました．</p>
-
-<ol>
-  <li><u>小野竜也</u>, 井上優良, “YOLOX を用いた白ねぎの葉の分岐部検出”, 2023年度（第31回）電子情報通信学会九州支部学生会講演会, D-22 Sep, 2023年</li>
-  <li><u>阿部光希</u>, 井上優良, “VR 空間上の学生服アバターにおけるプロテウス効果”, 2023年度（第31回）電子情報通信学会九州支部学生会講演会, D-11, Sep, 2023年</li>
-  <li><u>安藤拓翔</u>, 井上 優良, “FPGA によるリアルタイム表情認識システムの実装”, 2023年度（第31回）電子情報通信学会九州支部学生会講演会, A-15, Sep, 2023年</li>
-</ol>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生が崇城大学で開催された電子情報通信学会九州支部学生会講演会にて発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．]]></summary></entry></feed>
+<img src="/yinoue102.github/img/posts/2024/03/SASIMI2024_Poster.jpg" alt="SASIMI2024_Poster" /></p>]]></content><author><name>INOUE Yusuke</name></author><summary type="html"><![CDATA[井上研の学生が台湾で開催されたSASIMI2024に投稿した論文が採択され，発表を行いました． 日頃の成果をまとめ，多くの質疑応答を受けることができました．]]></summary></entry></feed>
