@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>こびとCPU工房</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<header><h1 id="headerTitle">こびとCPU工房</h1><p id="headerLead">材料置き場に材料をそろえて，組立台で注文品を完成させよう．</p></header>
+<main>
+<section class="panel"><h2 id="stageTitle">ステージ</h2><div class="stage-info"><label class="badge"><span>ステージ</span><select id="stageSelect"></select></label><div class="badge"><span>注文</span><span id="orderText">-</span></div><div class="badge"><span>現在ターン</span><span id="turnText" style="font-size:1.1rem;font-weight:900">0</span></div><div class="badge"><span>星評価</span><span id="starText">-</span></div></div><div class="layout"><div><div id="board" class="board"></div><div id="result" class="result"></div></div><aside class="controls"><div class="holding-card"><div class="label">小人が今持っているもの</div><div class="value" id="holdingText">なし</div></div><div class="move"><span></span><button id="upBtn">↑</button><span></span><button id="leftBtn">←</button><button id="downBtn">↓</button><button id="rightBtn">→</button></div><div class="actions"><button id="actionBtn">アクション</button><button id="resetBtn" class="secondary">最初から</button></div><div class="status" id="status"></div></aside></div></section>
+<section class="panel"><h2>固定命令列</h2><ol id="instructions" class="instructions"></ol></section>
+<section class="panel"><h2>ターンログ</h2><div id="log" class="log"></div></section>
+<section class="panel"><h2>用語辞典</h2><div class="dictionary"><details open><summary>材料置き場 ＝ レジスタ</summary><p>材料を一時的に置いておく小さな場所です．このゲームでは，1つの材料置き場に1つの材料だけ置けます．CPUでは，計算中のデータを置いておく小さな記憶場所をレジスタと呼びます．</p></details><details><summary>倉庫 ＝ メモリ</summary><p>材料をしまっておく大きな場所です．CPUでは，プログラムやデータを保存しておく場所をメモリと呼びます．</p></details><details><summary>組立台 ＝ ALU</summary><p>材料置き場にある材料を使って，おもちゃを作る場所です．CPUでは，レジスタにある値を使って計算する部分をALUと呼びます．</p></details><details><summary>ターン ＝ クロック</summary><p>このゲームでは，1回行動するたびに1ターン進みます．CPUでは，動作のリズムを刻む信号をクロックと呼びます．</p></details><details><summary>命令列 ＝ プログラム</summary><p>何をどの順番で実行するかを並べたものです．CPUは命令を順番に読み取りながら処理を進めます．</p></details></div></section>
+<section class="panel"><h2>遊び方</h2><p class="hint" id="hintText">小人は1ターンに1回だけ行動できます．アクションは，対象の設備と同じマスに小人がいるときだけ実行できます．</p></section>
+</main>
+<script src="js/stages.js"></script>
+<script src="js/gameState.js"></script>
+<script src="js/rules.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

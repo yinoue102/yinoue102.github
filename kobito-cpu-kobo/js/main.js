@@ -1,0 +1,10 @@
+const stageSelect=document.getElementById("stageSelect");
+stages.forEach((stage,index)=>{const option=document.createElement("option");option.value=String(index);option.textContent=stage.name;stageSelect.appendChild(option)});
+stageSelect.addEventListener("change",event=>selectStage(Number(event.target.value)));
+document.getElementById("upBtn").addEventListener("click",()=>move(0,-1));
+document.getElementById("downBtn").addEventListener("click",()=>move(0,1));
+document.getElementById("leftBtn").addEventListener("click",()=>move(-1,0));
+document.getElementById("rightBtn").addEventListener("click",()=>move(1,0));
+document.getElementById("actionBtn").addEventListener("click",performAction);
+document.getElementById("resetBtn").addEventListener("click",reset);
+reset();
